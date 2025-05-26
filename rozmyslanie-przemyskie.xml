@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>Rozmyślanie przemyskie</title>
+                <author>Unknown</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName>Hubert Krzywonos</persName>
+                    <orgName>Alma Mater Studiorum - University of Bologna</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Bologna</pubPlace>
+                <date>2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Rozmyślanie o żywocie Pana Jezusa</title>
+                        <title>Rozmyślanie przemyskie</title>
+                        <author>
+                            <persName>Unknown</persName>
+                            and
+                            <persName key="co-owner">Jan Ławrowski (1773-1846)</persName>
+                            and
+                            <persName key="co-owner">Biblioteka Kapituły Greckokatolickiej (Przemyśl)</persName>
+                        </author>
+                    </titleStmt>
+                    <publicationStmt>
+                        <idno type="internal">b0000001869592</idno>
+                        <idno type="URI">https://polona.pl/preview/6a83558e-1ac6-46e2-86c4-b145e04a3273</idno>
+                        <publisher>Biblioteka Narodowa</publisher>
+                        <pubPlace>Warsaw, Poland</pubPlace>
+                        <date>2005</date>
+                        <availability>
+                            <licence>Public Domain</licence>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Przemyśl</settlement>
+                                <repository>Biblioteka Kapituły Greckokatolickej (Przemyśl)</repository>
+                                <idno type="OCLC">899779066</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <msItem>
+                                    <author>Unknown</author>
+                                    <title>Rozmyślanie o żywocie Pana Jezusa</title>
+                                    <textLang mainlang="pl">Polish</textLang>
+                                </msItem>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="codex">
+                                    <supportDesc material="paper">
+                                        <support>
+                                            <p>Paper.</p>
+                                        </support>
+                                        <extent>
+                                            852 pages in 426 cards
+                                            <dimensions scope="all" type="leaf" unit="cm">
+                                                <height>22</height>
+                                                <width>15.5</width>
+                                            </dimensions>
+                                        </extent>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout columns="1"/>
+                                    </layoutDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <p>Text originally written in one hand with a Gothic style, later (16/17th c.) corrections occur in a different (Latin) writing style.</p>
+                                </handDesc>
+                                <decoDesc>
+                                    <p>Paragraphs begin with a large, red-coloured capital.</p>
+                                </decoDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written in <origPlace>Galicia (today western Ukraine)</origPlace> after <origDate notBefore="1512">1512.</origDate></p>
+                                </origin>
+                                <provenance>
+                                    <p>Most likely of Bernardine origin, from monasteries in <origPlace>Lwów</origPlace>, <origPlace>Sokal</origPlace>, <origPlace>Sambor</origPlace>, or <origPlace>Krystynopol</origPlace>.</p>
+                                </provenance>
+                                <acquisition>
+                                    <p>Bought by <name>Jan Ławrowski</name> by <name>Biblioteka Kapituły Greckokatolickiej</name> in <place>Przemyśl</place> sometime in <date when="1820-05-03">on 3rd May 1820</date> (possibly for 5 Dutch guldens).</p>
+                                </acquisition>
+                            </history>
+                        </msDesc>
+                        <listWit>
+                            <witness xml:id="AB"/>
+                            <witness xml:id="RW1"/>
+                            <witness xml:id="IJP"/>
+                            <witness xml:id="RW2"/>
+                        </listWit>
+                    </sourceDesc>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="pl">Polish</language>
+            </langUsage>
+            <textDesc n="Apocryphal stories">
+                <channel mode="w">Text is organised into "readings", akin to ones occurring during Mass.</channel>
+                <constitution type="composite" />
+                <derivation type="translation">Originally, the stories were written in Latin and can be sourced elsewhere.</derivation>
+                <domain type="religious" />
+                <factuality type="inapplicable" />
+                <interaction type="complete" active="plural" passive="many" />
+                <preparedness type="prepared" />
+                <purpose type="inform" degree="high" />
+                <purpose type="entertain" degree="low" />
+            </textDesc>
+            <settingDesc>
+                <name>Palestine</name>
+                <time>Late 1st century BC to mid 1st century AD</time>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="pl">
+
+    </text>
+</TEI>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
@@ -122,7 +123,368 @@
             </settingDesc>
         </profileDesc>
     </teiHeader>
+    <facsimile>
+        <surface xml:id="pg29">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 29 - bb241370-0ee8-4b18-b970-62442f9de236.jpg" width="4941px" height="6599px"/>
+        </surface>
+        <surface xml:id="pg30">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 30 - 6640ae21-2c5a-4a57-ab0a-1a75caecf78c.jpg" width="4846px" height="6476px" />
+        </surface>
+        <surface xml:id="pg31">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 31 - 4e32b802-8320-41d1-927e-7ee5dc4f0073.jpg" width="4941px" height="6599px" />
+        </surface>
+        <surface xml:id="pg32">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 32 - 2c55a233-0c84-414c-bca6-f88aa3a2578a.jpg" width="4846px" height="6476px" />
+        </surface>
+        <surface xml:id="pg33">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 33 - cb8fe9fe-6c0b-413d-9ae3-1cfc186daacf.jpg" width="4941px" height="6599px" />
+        </surface>
+        <surface xml:id="pg34">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 34 - 1bbf7a8f-0e21-47f5-828d-2769d276cb3d.jpg" width="4846px" height="6476px" />
+        </surface>
+        <surface xml:id="pg35">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 35 - c13383ae-849b-4fdd-806f-3596951a139d.jpg" width="4941px" height="6599px" />
+        </surface>
+        <surface xml:id="pg36">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 36 - 9d39ca15-ef12-4892-b8f1-649c9f637daf.jpg" width="4846px" height="6476px" />
+        </surface>
+        <surface xml:id="pg37">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 37 - bad75da4-6cc6-4186-b0df-3afca9ded169.jpg" width="4941px" height="6599px" />
+        </surface>
+        <surface xml:id="pg38">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 38 - 1cacf555-24c5-4557-9890-35fe2a9b07c2.jpg" width="4846px" height="6476px" />
+        </surface>
+        <surface xml:id="pg39">
+            <graphic url="base-images\_- Rozmyślanie o żywocie Pana Jezusa - 39 - 012df600-0cfa-4c1a-97da-763ffe0cb9af.jpg" width="4941px" height="6599px" />
+        </surface>
+    </facsimile>
     <text xml:lang="pl">
-
+        <body>
+            <gap></gap>
+            <div>
+                <pb n="29" facs="#pg29" />
+                <p><lb />ką mieli uczynić". Czczenie o tem,
+                <lb />iże kapłani postawili i przykazali
+                <lb />post za trzy dni prze dziewicę
+                <lb />Maryją z wielikim nabożeństwem
+                <lb />Biskupi i księża żydowska przykazali
+                <lb />za trzy dni, z wielikiem nabożeństwem
+                <lb />wzywając i prosząc Boga wszechmogącego,
+                <lb />by im raczył zjawić i przykazać przez anjoła,
+                <lb />co bychą z tą dziewicą mieli uczynić.
+                <lb />O tem głosie, ktoryr słyszeli w kościele
+                <lb />ukazując, kto był małżeństwa
+                <lb />dostojen z dziewicą Maryją
+                <lb />Potem trzeciego dnia stał sie głos wieliki
+                <lb />w kościele, aże wszyscy słyszeli, jiż tako
+                <lb />mowił, aby wszyscy młodzieńcy z pokolenia
+                <lb />Dawidowa albo Juda, jego dziada, młodzi i
+                <lb />starzy, ktorzy by nie byli w
+                <lb />małżeństwie, iżby przyszli do kościoła aa by
+                <lb />każdy niosł w ręce rozgę albo laskę, a
+                <lb />by ją podał swemy biskupowi
+                <lb />wyszemu, jiż by ją miał postawić pospołu
+                <lb />przy ołtarzu, a na czyjej by się
+                <lb />pokazała latorośl i kwiat, potem kiedy by ją
+                <lb />biskupowi podał, a też na nie by Duch
+                <lb />Święty siedział w gołębkowem wyobrażeniu,
+                <lb />iżeć ten jest dostojen, aby jemu Maryja
+                <lb />dziewica dana ku małżeństwu. Tegodla
+                <lb />biskupi wszyscy i księża żydowszczy
+                </p>
+                <pb n="30" facs="#pg30" />
+                <p><lb />przykazali wszyskiem żydowskiej ziemi,
+                <lb />ktoryżkoli z pokolenia z Juda,
+                <lb />z któregoż był Dawid, ktorzy by nie byli
+                <lb />w małżeńtwie jeszcze, do Jerusalem
+                <lb />by przyszli, każdy niosąc laskę w ręce.
+                <lb />Tedy z tego pokolenia wiele mężczyzn i młodych
+                <lb />i starych przyszło, każdy noszą laskę w ręku
+                <lb />podług przykazani i podali je biskupowi,
+                <lb />a on wziął i naznamieniował każdego
+                <lb />i postawił podle ołtarza. Kiedy za
+                <lb />wielkim nabożeństwem czekali cuda
+                <lb />bożego, aże do trzeciego dnia  tamo będąc,
+                <lb />nie uźrzeli niejednego dziwu. Tako potym
+                <lb />dali sie na modlitwy, Boga wszechmogącego
+                <lb />nabożnymi modlitwami prosząc, by
+                <lb />im ukazał swe cudo, jako obiecał. Tedy
+                <lb />opięć głos boski w kościele usłyszeli
+                <lb />rzekący, iże tu jeszcze nie przyszedł
+                <lb />ani swej laski nie przyniosł i tu
+                <lb />bydli w Betleem syn Jakobow z pokolenia
+                <lb />Juda na imię Jozef. Czcienie
+                <lb />o Jozefowej chwale, oblubieńca
+                <lb />Maryje i o jego czesności
+                <lb />Ten Jozef był betleeemski,
+                <lb />syn Jakubow, czestnych obyczajow i świętego
+                <lb />żywota a mądrością się nad inne świecił,
+                <lb />swą łaską wszytki przechodził, a był
+                <lb />brat rodzony Kleofie, jeb po śmierci
+                </p>
+                <pb n="31" facs="#pg31" />
+                <p><lb />Jachymo Annę, siostrę Ismeryi,
+                <lb />pojął sobie żonę. Ten był wierny wsze prawdy
+                <lb />naśladowca i czystoty cielestne miłośnik,
+                <lb />niewinność swego serca chował, Bogu i
+                <lb />ludziom był mił, bo był w słowie prawdziwy,
+                <lb />wierny i przezpieczny, prosty, dobry
+                <lb />śmierny, cichy, pokorny i wielmi
+                <lb />roztropny. Z każdem się łaskawie umowił,
+                <lb />każdemu łaskę ukazał, ciesielstwem
+                <lb />się barzo mądrze i roztropnie obchodził,
+                <lb />bo zawżdy dobre dostatki miał a z
+                <lb />tego pomagał ubogiem, niemocnym,
+                <lb />pielgrzymom i każdemu, ktokoli prze Bog
+                <lb />prosił, bo był pełen gorącego miłosierdzia
+                <lb />Często Bogu wszechmogącemu służył
+                <lb />swemi nabożnymi modlitwami, postem, czucim
+                <lb />udręczał swoje ciał, kaźń Mojżeszowa
+                <lb />zakonu rad chował, wszytką myślą, sercem
+                <lb />i duszą miłował Boga wszechmogącego a ku
+                <lb />swemu bliźniemu zawdy miał miłosierdzie.
+                <lb />Też był barzo czystego ciała, bo wszystkę
+                <lb />rozkosz cielestną do siebie był otrącił
+                <lb />i miłował czystotę; a przeto był
+                <lb />czysty z przyrodzenia swego i
+                <lb />urodzenia, był czystygo natchienim
+                <lb />Ducha Świętego, był czysty z swego ciała,
+                <lb />czysty na duszy, czysty w cnych
+                </p>
+                <pb n="32" facs="#pg32" />
+                <p><lb />a w dostojnych obyczajoch. Człowieka
+                <lb />nijednego nie potępił ani potępiał,
+                <lb />ubogiego i bogatego jednako miłował
+                <lb />Też nie był żądny ani skąpy
+                <lb />przednie, ale szczody, miłościwy, wiesioły
+                <lb />i Bogu miły. Czczenie o tem, jako
+                <lb />Jozef przyszedł do kościoła a kako
+                <lb />jego laska puściła odrośli i skwitła
+                <lb />a Duch Święty na niej siedział
+                <lb />Słysząc popowie ten głos i pewno
+                <lb />zwiedziawszy, iże Jozef, sługa boży,
+                <lb />dostojen tej dziewice, natychmiast posłali
+                <lb />do Betlejem, aby też z swą laską
+                <lb />przyszedł do kościoła. A Jozef jako
+                <lb />prawdziwy człowiek natychmiast był
+                <lb />posłuszen a przyszed do Jerusalem i wszedł
+                <lb />w kościoł, nosząc swą laskę w ręku i podał
+                <lb />ją wyszemu biskupowi. Jedno ją wziął,
+                <lb />aż natychmiast ona ista sucha laska puściła
+                <lb />odrośli i kwitła A jeszcze w ręku u
+                <lb />biskupa laska była, a Duch Święty zstąpiw
+                <lb />i  siedział na niej w gołębiczym wyobrażeniu,
+                <lb />ktoreż widzieli i poświaczszali
+                <lb />wielikie tłuszcze luda i dziwowali
+                <lb />sie temu nasilnie, a padnąwszy wszyscy na
+                <lb />swe kolana chwalili Boga wszechmogącego
+                <lb />rzekąc, iże ten jest prawdziwy
+                </p>
+                <pb n="33" facs="#pg33" />
+                <p><lb />a dostojny, bo jest dziwnym znamieniem
+                <lb />od Boga wybrany, bo wierny a
+                <lb />prawdziwy sługa boży, tegodla jest
+                <lb />dostojen, aby jemu dana ta błogosławiona
+                <lb />dziewica Maryja, ktoraż krolem anjelskiem
+                <lb />nade wszystkie insze wybrana i
+                <lb />zasłużyła u Boga, aby w to dostojne
+                <lb />małżeństwo świętemu temu człowieku była
+                <lb />dana, bo ją Bog ućcił szwą chwałą, cnotą
+                <lb />i wszytkim dostojeństwem. Czcienie
+                <lb />o tem, księża żydowska kazali
+                <lb />Jozefowi pojąć za żonę albo oblubieńcę
+                <lb />Maryją
+                <lb />Księża biskupowie i popowie żydowszczy
+                <lb />kazali Jozefowi, aby Maryją pojął sobie
+                <lb />oblubienicę i rzekli jemu: "Jozefie, mężu
+                <lb />naświętszy a Bogu miły, któryś dostojen
+                <lb />małżeństwa wybranej dziewice, bo
+                <lb />cie Bog przez wielikie cudo powyszył
+                <lb />i wybrał oblubienica dziewicy
+                <lb />Maryje, tegodla oddawamy tobie tę
+                <lb />dostojną dziewicę a każemy tobie,
+                <lb />by ją wziął za żonę". Odpowiedział jest
+                <lb />im Jozef i rzekł: "Jaciem umyślił nigdy
+                <lb />oblubienice albo żony pojmować, bociem
+                <lb />wszytkę miłość juże opuścił,
+                <lb />wszakoż aczbych miał tę wolą, iżbych
+                </p>
+                <pb n="34" facs="#pg34" />
+                <p><lb />chciał żonę pojąć, wszakoż nie jest
+                <lb />podobno, aby tako rozkoszne, tako
+                <lb />wielebne, tako święte dziewicy był oblubion.
+                <lb />Ja nędzny i wszego luda niszy nie
+                <lb />jestem dostojen poruszyć tako świętego
+                <lb />dziewictwa, bowim ja już przyszedł w
+                <lb />stare lata a nie jest podobno, iżbych tako
+                <lb />młodą i tako dostojną dziwkę pojął".
+                <lb />O modlitwie Jozefowej, kiedy ji
+                <lb />przymęcano pojąć dziewicę Maryją
+                <lb />A jako biskupowie i wszytek lud
+                <lb />poczęli ji przymęcać, by ją pojął,
+                <lb />Jozeg dał się na modlitwę i począł Boga
+                <lb />wszechmogącego z gorącymi łzami prosić
+                <lb />rzekąc: "Gospodnie wszechmogący,
+                <lb />stworzycielu nieba i ziemie a opiekalniku
+                <lb />rodzaju człowieczego! Tyś stworzył pirwego
+                <lb />człowieka s jiłowate ziemie i posadziłeś
+                <lb />ji w raju twe słodkości, z żebra albo
+                <lb />z kości stworzyłeś niewiastę, dawszy ją
+                <lb />jmu i przykazałaęś, abyszę mnożyli od
+                <lb />siebie rodzaj człowieczy, ale by się
+                <lb />schodzili przez gorącości a byszę mieli
+                <lb />płod w niewiństwie od grzecha; ale to
+                <lb />dostojeństwo pirwa nasza rodzina swym
+                <lb />przestąpienim stracili i przywiedli nas,
+                <lb />swe dzieci, ku grzechu. A prze to ja
+                </p>
+                <pb n="35" facs="#pg35" />
+                <p><lb />chciałem sie tego grzecha chować
+                <lb />niewinien, myśliłem już nigdy cielestną
+                <lb />nieczystotą ciała ie pokalać, alem
+                <lb />czysto chować prze Cie duszę
+                <lb />moję ślubił, stworzycielu moj, jen jeś
+                <lb />miłośnik czystoty. Tegodla Ciebie, miły
+                <lb />Gospodnie, proszę, aby mię raczył zbawić,
+                <lb />abych nie przymęcon tej świętej dziewicy
+                <lb />poruszyć, ktora jest źwierciadło
+                <lb />czystoty i przybytek wiernego bostwa".
+                <lb />Czczenie o tem, jako anjoł Jozefa
+                <lb />prosił, by sobie pojął Maryją oblubieńcę
+                <lb />a by się nią opiekał
+                <lb />Tedy się anjoł jemu pokazał i począł
+                <lb />ji wiesielić rzekąc: "O Jozefie,
+                <lb />sługo boży! O tę swą przytczą nie
+                <lb />męci się, ale się wiesiel a ślubi
+                <lb />sobie Maryją oblubienicę, boć to jest
+                <lb />podlug twego obiecania wierna miłośnica
+                <lb />dziewictwa i świca świętej czystoty a
+                <lb />podług twej woli ona żąda czysta dziewica
+                <lb />ostać. Bo przez tę dziewicę anjelskie
+                <lb />ma być naprawienie a też przez
+                <lb />tę dziewicę krolestwo żydowskie ma być
+                <lb />poprawiono, przez tę lud żydowski będzie
+                <lb />powyszon, przez tę będzie wszystek
+                <lb />świat zbawion, przez tę krolestwo niebieskie
+                </p>
+                <pb n="36" facs="#pg36" />
+                <p><lb />będzie powyszono, przez tę bedzie moc
+                <lb />piekielna rozbita. Tegodla ślubi ją sobie
+                <lb />i przyłęczy oblubieńcę. Wszakoż ją
+                <lb />zawżdy w jej dostojeństwie będziesz chować,
+                <lb />omyślając jej potrzeby a służąc
+                <lb />jako swej krolownie". O modlitwie
+                <lb />błogosławionej dziewice Maryje, kiedy
+                <lb />jej kazano Jozefa pojąć oblubieńcem
+                <lb />Żydowie kiedy poczęli błogosławioną dziewicę
+                <lb />przymęcać, aby Jozefa, sługę bożego, oblubiła
+                <lb />sobie mężem, uciekła sie ku Bogu wszechmogącemu
+                <lb />z gorącymi łzami i poczęła sie modlić z ciężkim
+                <lb />wzdychanim serca rzekąc: "O krolu niebieski,
+                <lb />o wierny obeźrzycielu każdego czystego serca,
+                <lb />ani mego ciała, ani ducha,
+                <lb />zawżdym moj duch czysto chowała a nad Cie innego
+                <lb />nie żądała ani miłowała, a Tobiem moj kwiat mej
+                <lb />czystoty ofierowała, a Tobie samemu moje
+                <lb />dziewictwo schowała. Ale dzisia, moj namilejszy
+                <lb />Gospodnie, przymęcają mie, abych
+                <lb />ten ślub i tę obietnicę przestąpiła, bo
+                <lb />mie już oddalają Twej rozkosznej miłości,
+                <lb />iże już przymęcają mię i mącą inego
+                <lb />oblubienica ślubić i przyłęczyć sie
+                <lb />mężowi obcemu. Jedyna nadziejo zbawienia
+                <lb />mego, oćzce i stworzycielu moj,
+                <lb />proszę Ciebie, aby nie przepuścił
+                </p>
+                <pb n="37" facs="#pg37" />
+                <p><lb />ciała mego i dziewictwa poruszyć, bo jeś Ty
+                <lb />moj towarzysz i przybytku
+                <lb />serca mego osobny obranice. Ciebiem miłowała,
+                <lb />Tobiem sie radowała, Ciebiem zawżdy
+                <lb />żądała, nad Cie oblubieńca nie
+                <lb />szukała. Tyś sam oblubieniec moj, Ty jeś
+                <lb />sam mąż moj, Ty jeś sam naświętszy,
+                <lb />Ty jeś sam umowny i nade wszytki wybrany
+                <lb />Tyś wielebniejszy, nade wszystki ine
+                <lb />krasszy. Ty jeś moj tajemnik, Ty jeś
+                <lb />moj zbawiciel, Ty jeś sam moj miły
+                <lb />i miłośnik, Ty jeś moj przyjacil i
+                <lb />towarzysz Tegodla, moj namilejszy,
+                <lb />dzisia Ciebie proszę, miłościwie
+                <lb />wybaw mie z tego wielikiego smętku".
+                <lb />Czcienie o tem, jako anjoł pokazaw sie
+                <lb />bogosławionej i wielebnej dziewicy
+                <lb />Maryjej, podpomaga ją i wiesieli
+                <lb />ją z jej smętku, iże przymęcona
+                <lb />Jozefa pojąć
+                <lb />Maryja kiedy była tako długo na
+                <lb />modlitwie, z wielikiemi łzami Boga
+                <lb />wszechmogącego wzywajęcy, anjoł
+                <lb />z niebios przyszedł k niej wiesieląc
+                <lb />ją: "Maryja, dziewice święta, nie udręczaj
+                <lb />sie tako wielmi smętkiem, iże Bog
+                <lb />obeźrał i usłyszał twe modlitwy i
+                </p>
+                <pb n="38" facs="#pg38" />
+                <p><lb />posłał mię z nieba k tobie, bych cie ucieszył,
+                <lb />bo cie chce w twem dziewiczem
+                <lb />stadle. Wszakoż będziesz oddana podług
+                <lb />obyczaja małżeńskiego temu
+                <lb />świętemu mężowi Jozefowi, jen ciebie
+                <lb />schowa w twem dostojnym dziewictwie,
+                <lb />iże czystą panną na wieki ostaniesz, wszakoż
+                <lb />zakon popełnisz i ustawienie Mojżeszowo,
+                <lb />bo masz być oddana świętemu mężu
+                <lb />Jozefowi i będziesz jemu przyłączona
+                <lb />obyczajem małżeńskiem. Tenci jest
+                <lb />mąż dziwnego miłosierdzia a twego
+                <lb />ślubu wierny miłośnik dostojne czystoty,
+                <lb />bo od swego dziewictwa żył w kaźni boże
+                <lb />wiernie i we cnocie swego żywota a też
+                <lb />jest barzo cichy, śmierny i dostojny
+                <lb />a szwej rozkoszy cielestne wieliki nieprzyjaciel,
+                <lb />w słowie prawdziwy, śmierny a barzo
+                <lb />poczestny. Tegodla twego małżeństwa
+                <lb />jest dostojen a ciebie nigdy ktorem
+                <lb />gniewem ani smętkiem ani pogorszenim
+                <lb />zakłopoce, ale cie zawżdy będzie chować
+                <lb />jako czystą dziwekę a będzie tajemnik
+                <lb />twej czystości. Ten będzie omyślał
+                <lb />potrzeby twemu żywotu a służbę czystą
+                <lb />będzie tobie ukazować. On tobie będzie
+                <lb />oblubieniec, towarzysz i brat, a ty
+                </p>
+                <pb n="39" facs="#pg39" />
+                <p><lb />jemu będziesz siostra, oblubieńca i
+                <lb />matka". A zmowiwszy to anjoł nie dał sie
+                <lb />dalej widzieci a Maryja za tem ucieszenim
+                <lb />polecała sie Bogu wszechmogącemu
+                <lb />z wielikiem dziękowanim. Potem
+                <lb />czcienie o tem, jako dziewica Maryja
+                <lb />oddana Jozefowi a jako jemu popowie
+                <lb />dali roku trzy miesiące pojąć
+                <lb />Maryją sobie oblubieńcę
+                <lb />Potem natychmiast księża żydowska
+                <lb />wezwawszy błogosławioną dziewicę
+                <lb />Maryją i oddali ślubnie dostojnemu mężu
+                <lb />Jozefowi a dali jemu roku trzy miesiące,
+                <lb />by jej nie brał aże po dwanaście
+                <lb />niedziel. Tako Jozef natychmiast wrocił się
+                <lb />do Betleem z wielikiem weselim, dziękując
+                <lb />Bogu wszechmogącemu z takiego daru i
+                <lb />naprawił potrzeby domowe ku swej swadźbie.
+                <lb />Czcienie o tem, jako książęta żydowska
+                <lb />posłali Maryją do Nazaret w dom jej
+                <lb />ojca a dali jej siedm panien na
+                <lb />świadectwo jej czystoty
+                <lb />Kiedy dziewicę Maryją do Nazaret biskupi
+                <lb />posłali do jej ojca, oddali ją siedmi
+                <lb />pannam jej towarzyszek, ktoryż s nią
+                <lb />przebywały w bożem domu,
+                <lb />aby ją cieszyły a też czyniły świadectwo jej
+                </p>
+            </div>
+            <gap></gap>
+        </body>
     </text>
 </TEI>

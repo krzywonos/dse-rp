@@ -163,118 +163,428 @@
             <gap></gap>
             <div>
                 <pb n="29" facs="#pg29" />
-                <p><lb />ką mieli uczynić". Czczenie o tem,
+                <p><lb />
+                    <app>
+                        <lem wit="#AB">ką</lem>
+                        <rdg wit="#IJP"></rdg>
+                    </app> mieli uczynić". Czczenie o tem,
                 <lb />iże kapłani postawili i przykazali
                 <lb />post za trzy dni prze dziewicę
-                <lb />Maryją z wielikim nabożeństwem
+                <lb />
+                    <app>
+                        <lem wit="#IJP">Maryją</lem>
+                        <rdg wit="#AB">Marję</rdg>
+                    </app> z wielikim nabożeństwem
                 <lb />Biskupi i księża żydowska przykazali
-                <lb />za trzy dni, z wielikiem nabożeństwem
-                <lb />wzywając i prosząc Boga wszechmogącego,
-                <lb />by im raczył zjawić i przykazać przez anjoła,
-                <lb />co bychą z tą dziewicą mieli uczynić.
-                <lb />O tem głosie, ktoryr słyszeli w kościele
+                    <app>
+                        <lem wit="#AB"></lem>
+                        <rdg wit="#IJP"> post</rdg>
+                    </app>
+                <lb />za trzy dni, 
+                    <app>
+                        <lem wit="#IJP">z wielikiem</lem>
+                        <rdg wit="#AB">zwielikiem</rdg>
+                    </app> nabożeństwem
+                <lb />
+                    <app>
+                        <lem wit="#IJP">wzywając</lem>
+                        <rdg wit="#AB">żywiąc</rdg>
+                    </app> i prosząc Boga wszechmogącego,
+                <lb />by im raczył zjawić i przykazać przez 
+                    <app>
+                        <lem wit="#AB">anioła</lem>
+                        <rdg wit="#IJP">anjoła</rdg>
+                    </app>,
+                <lb />co 
+                    <app>
+                        <lem wit="#IJP">bychą z tą</lem>
+                        <rdg wit="#AB">bych my stą</rdg>
+                    </app> dziewicą mieli uczynić.
+                <lb />O tem głosie, ktory słyszeli
+                    <app>
+                        <lem wit="#IJP">w kościele</lem>
+                        <rdg wit="#AB">wkościele</rdg>
+                    </app>
                 <lb />ukazując, kto był małżeństwa
-                <lb />dostojen z dziewicą Maryją
+                <lb />dostojen
+                    <app>
+                        <lem wit="#IJP">z dziewicą Maryją</lem>
+                        <rdg wit="#AB">zdziewicą Marją</rdg>
+                    </app>
                 <lb />Potem trzeciego dnia stał sie głos wieliki
-                <lb />w kościele, aże wszyscy słyszeli, jiż tako
-                <lb />mowił, aby wszyscy młodzieńcy z pokolenia
+                <lb />
+                    <app>
+                        <lem wit="#IJP">w kościele</lem>
+                        <rdg wit="#AB">wkościele</rdg>
+                    </app>,
+                aże wszyscy słyszeli,
+                    <app>
+                        <lem wit="#AB">iż</lem>
+                        <rdg wit="#IJP">jiż</rdg>
+                    </app>
+                tako
+                <lb />mowił, aby wszyscy młodzieńcy
+                    <app>
+                        <lem wit="#IJP">z pokolenia</lem>
+                        <rdg wit="#AB">zpokolenia</rdg>
+                    </app>
                 <lb />Dawidowa albo Juda, jego dziada, młodzi i
-                <lb />starzy, ktorzy by nie byli w
-                <lb />małżeństwie, iżby przyszli do kościoła aa by
+                <lb />starzy, ktorzy 
+                by nie byli 
+                    <app>
+                        <lem wit="#IJP">by nie byli</lem>
+                        <rdg wit="#AB">byniebyli</rdg>
+                    </app>
+                w małżeństwie,
+                <lb />iżby przyszli do kościoła a by
                 <lb />każdy niosł w ręce rozgę albo laskę, a
-                <lb />by ją podał swemy biskupowi
-                <lb />wyszemu, jiż by ją miał postawić pospołu
-                <lb />przy ołtarzu, a na czyjej by się
+                    <app>
+                        <lem wit="#AB"></lem>
+                        <rdg wit="#IJP">przyszedł do kościoła</rdg>
+                    </app>
+                <lb />by ją podał swemu biskupowi
+                <lb />wyszemu, 
+                    <app>
+                        <lem wit="#AB">iż</lem>
+                        <rdg wit="#IJP">jiż</rdg>
+                    </app>
+                by ją miał postawić pospołu
+                <lb />przy ołtarzu, 
+                    <app>
+                        <lem wit="#IJP">a na czyjej by</lem>
+                        <rdg wit="#AB">anaczyjejby</rdg>
+                    </app>
+                się
                 <lb />pokazała latorośl i kwiat, potem kiedy by ją
-                <lb />biskupowi podał, a też na nie by Duch
-                <lb />Święty siedział w gołębkowem wyobrażeniu,
-                <lb />iżeć ten jest dostojen, aby jemu Maryja
-                <lb />dziewica dana ku małżeństwu. Tegodla
-                <lb />biskupi wszyscy i księża żydowszczy
+                <lb />
+                    <app>
+                        <lem wit="#AB">biskupowi</lem>
+                        <rdg wit="#IJP">biskupowie</rdg>
+                    </app>
+                podał, a też 
+                na nie 
+                    <app>
+                        <lem wit="#IJP">na nie</lem>
+                        <rdg wit="#AB">nanie</rdg>
+                    </app>
+                by Duch
+                <lb />Święty siedział 
+                    <app>
+                        <lem wit="#IJP">w gołębkowem</lem>
+                        <rdg wit="#AB">wgołębkowem</rdg>
+                    </app>
+                wyobrażeniu,
+                <lb />iżeć ten jest dostojen, 
+                    <app>
+                        <lem wit="#IJP">aby</lem>
+                        <rdg wit="#AB">a by</rdg>
+                    </app>
+                jemu 
+                    <app>
+                        <lem wit="#IJP">Maryja</lem>
+                        <rdg wit="#AB">Marja</rdg>
+                    </app>
+                <lb />dziewica dana ku małżeństwu. 
+                    <app>
+                        <lem wit="#IJP">Tegodla</lem>
+                        <rdg wit="#AB">Tego dla</rdg>
+                    </app>
+                <lb />biskupi wszyscy i księża 
+                    <app>
+                        <lem wit="#AB">żydowscy</lem>
+                        <rdg wit="#IJP">żydowszczy</rdg>
+                    </app>
                 </p>
                 <pb n="30" facs="#pg30" />
-                <p><lb />przykazali wszyskiem żydowskiej ziemi,
-                <lb />ktoryżkoli z pokolenia z Juda,
-                <lb />z któregoż był Dawid, ktorzy by nie byli
-                <lb />w małżeńtwie jeszcze, do Jerusalem
-                <lb />by przyszli, każdy niosąc laskę w ręce.
-                <lb />Tedy z tego pokolenia wiele mężczyzn i młodych
-                <lb />i starych przyszło, każdy noszą laskę w ręku
-                <lb />podług przykazani i podali je biskupowi,
-                <lb />a on wziął i naznamieniował każdego
+                <p><lb />przykazali 
+                    <app>
+                        <lem wit="#AB">wszystkiem</lem>
+                        <rdg wit="#IJP">wszystkiem w</rdg>
+                    </app>
+                żydowskiej ziemi,
+                    <app>
+                        <lem wit="#IJP">ktoryżkoli</lem>
+                        <rdg wit="#AB">ktoryż koli</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#IJP">z pokolenia</lem>
+                        <rdg wit="#AB">spokolenia</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#IJP">z Juda,</lem>
+                        <rdg wit="#AB">zJuda</rdg>
+                    </app>
+                <lb />
+                    <app>
+                        <lem wit="#IJP">i</lem>
+                        <rdg wit="#AB">z</rdg>
+                    </app>
+                któregoż był Dawid, ktorzy by 
+                    <app>
+                        <lem wit="#IJP">nie byli</lem>
+                        <rdg wit="#AB">niebyli</rdg>
+                    </app>
+                <lb />w małżeńtwie 
+                jeszcze, do Jerusalem
+                    <app>
+                        <lem wit="#AB"></lem>
+                        <rdg wit="#IJP">do kościoła</rdg>
+                    </app>
+                <lb />by przyszli, każdy niosąc laskę 
+                    <app>
+                        <lem wit="#IJP">w ręce</lem>
+                        <rdg wit="#AB">wręce</rdg>
+                    </app>.
+                <lb />Tedy 
+                    <app>
+                        <lem wit="#IJP">z tego</lem>
+                        <rdg wit="#AB">stego</rdg>
+                    </app>
+                pokolenia wiele 
+                    <app>
+                        <lem wit="#IJP">mężczyzn i</lem>
+                        <rdg wit="#AB">mężczyzny</rdg>
+                    </app>
+                młodych
+                <lb />i starych przyszło, każdy nosząc laskę 
+                    <app>
+                        <lem wit="#IJP">w ręku</lem>
+                        <rdg wit="#AB">wręku</rdg>
+                    </app>
+                <lb />podług przykazania i podali je biskupowi,
+                <lb />a on wziął i naznamienował każdego
                 <lb />i postawił podle ołtarza. Kiedy za
                 <lb />wielkim nabożeństwem czekali cuda
-                <lb />bożego, aże do trzeciego dnia  tamo będąc,
-                <lb />nie uźrzeli niejednego dziwu. Tako potym
-                <lb />dali sie na modlitwy, Boga wszechmogącego
+                <lb />bożego, aże do trzeciego dnia tamo będąc,
+                <lb />
+                    <app>
+                        <lem wit="#IJP">nie uźrzeli</lem>
+                        <rdg wit="#AB">nieuźrzeli</rdg>
+                    </app>
+                niejednego dziwu. Tako potym
+                <lb />dali sie 
+                    <app>
+                        <lem wit="#IJP">na modlitwy</lem>
+                        <rdg wit="#AB">namodlitwy</rdg>
+                    </app>,
+                Boga wszechmogącego
                 <lb />nabożnymi modlitwami prosząc, by
                 <lb />im ukazał swe cudo, jako obiecał. Tedy
-                <lb />opięć głos boski w kościele usłyszeli
-                <lb />rzekący, iże tu jeszcze nie przyszedł
-                <lb />ani swej laski nie przyniosł i tu
-                <lb />bydli w Betleem syn Jakobow z pokolenia
-                <lb />Juda na imię Jozef. Czcienie
+                <lb />opięć głos boski 
+                    <app>
+                        <lem wit="#IJP">w kościele</lem>
+                        <rdg wit="#AB">wkościele</rdg>
+                    </app>
+                usłyszeli
+                <lb />rzekący, iże tu jeszcze 
+                    <app>
+                        <lem wit="#IJP">nie przyszedł</lem>
+                        <rdg wit="#AB">nieprzy</rdg>
+                    </app>
+                <lb />ani swej laski 
+                    <app>
+                        <lem wit="#IJP">nie przyniosł</lem>
+                        <rdg wit="#AB">nieprzyniosł</rdg>
+                    </app>
+                i tu
+                <lb />bydli 
+                    <app>
+                        <lem wit="#IJP">w Betleem</lem>
+                        <rdg wit="#AB">wBetleem</rdg>
+                    </app>
+                syn Jakobow 
+                    <app>
+                        <lem wit="#IJP">z pokolenia</lem>
+                        <rdg wit="#AB">spokolenia</rdg>
+                    </app>
+                <lb />Juda 
+                    <app>
+                        <lem wit="#IJP">na imię</lem>
+                        <rdg wit="#AB">naimię</rdg>
+                    </app>
+                Jozef. Czcienie
                 <lb />o Jozefowej chwale, oblubieńca
-                <lb />Maryje i o jego czesności
-                <lb />Ten Jozef był betleeemski,
+                <lb />Maryje
+                    <app>
+                        <lem wit="#IJP">Maryje</lem>
+                        <rdg wit="#AB">Marje</rdg>
+                    </app>
+                i o jego czesności
+                <lb />Ten Jozef był 
+                    <app>
+                        <lem wit="#IJP"></lem>
+                        <rdg wit="#AB">syn</rdg>
+                    </app>
+                betleemski,
                 <lb />syn Jakubow, czestnych obyczajow i świętego
-                <lb />żywota a mądrością się nad inne świecił,
+                <lb />żywota a mądrością się 
+                    <app>
+                        <lem wit="#IJP">nad inne</lem>
+                        <rdg wit="#AB">nadinne</rdg>
+                    </app>
+                świecił,
                 <lb />swą łaską wszytki przechodził, a był
-                <lb />brat rodzony Kleofie, jeb po śmierci
+                <lb />brat rodzony Kleofie, jen 
+                    <app>
+                        <lem wit="#IJP">po śmierci</lem>
+                        <rdg wit="#AB">pośmierci</rdg>
+                    </app>
                 </p>
                 <pb n="31" facs="#pg31" />
-                <p><lb />Jachymo Annę, siostrę Ismeryi,
-                <lb />pojął sobie żonę. Ten był wierny wsze prawdy
-                <lb />naśladowca i czystoty cielestne miłośnik,
+                <p><lb />
+                    <app>
+                        <lem wit="#IJP">Jachymo</lem>
+                        <rdg wit="#AB">Jachimo</rdg>
+                    </app>
+                    Annę, siostrę 
+                    Ismeryi
+                    <app>
+                        <lem wit="#IJP">Ismeryi</lem>
+                        <rdg wit="#AB">gdy zmarł</rdg>
+                    </app>,
+                <lb />pojął sobie 
+                    <app>
+                        <lem wit="#IJP">żonę</lem>
+                        <rdg wit="#AB">żoną</rdg>
+                    </app>. 
+                Ten był wierny wsze prawdy
+                <lb />naśladowca i czystoty cielestne 
+                    <app>
+                        <lem wit="#IJP">miłośnik</lem>
+                        <rdg wit="#AB">niewinnik</rdg>
+                    </app>,
                 <lb />niewinność swego serca chował, Bogu i
-                <lb />ludziom był mił, bo był w słowie prawdziwy,
-                <lb />wierny i przezpieczny, prosty, dobry
+                <lb />ludziom był mił, bo był 
+                    <app>
+                        <lem wit="#IJP">w słowie</lem>
+                        <rdg wit="#AB">wsłowie</rdg>
+                    </app>
+                    prawdziwy,
+                <lb />wierny i przezpieczny, 
+                    <app>
+                        <lem></lem>
+                        <rdg wit="AB IJP">bo był</rdg>
+                    </app>
+                    prosty, dobry
                 <lb />śmierny, cichy, pokorny i wielmi
-                <lb />roztropny. Z każdem się łaskawie umowił,
+                <lb />roztropny
+                    <app>
+                        <lem wit="#IJP">. Z każdem</lem>
+                        <rdg wit="#AB">, skażdem</rdg>
+                    </app> 
+                    się łaskawie umowił,
                 <lb />każdemu łaskę ukazał, ciesielstwem
                 <lb />się barzo mądrze i roztropnie obchodził,
                 <lb />bo zawżdy dobre dostatki miał a z
                 <lb />tego pomagał ubogiem, niemocnym,
-                <lb />pielgrzymom i każdemu, ktokoli prze Bog
+                <lb />pielgrzymom i każdemu, ktokoli 
+                    <app>
+                        <lem wit="#IJP">prze Bog</lem>
+                        <rdg wit="#AB">przebog</rdg>
+                    </app>
                 <lb />prosił, bo był pełen gorącego miłosierdzia
                 <lb />Często Bogu wszechmogącemu służył
                 <lb />swemi nabożnymi modlitwami, postem, czucim
                 <lb />udręczał swoje ciał, kaźń Mojżeszowa
                 <lb />zakonu rad chował, wszytką myślą, sercem
-                <lb />i duszą miłował Boga wszechmogącego a ku
+                <lb />i duszą miłował Boga wszechmogącego
+                    <app>
+                        <lem wit="#IJP">a ku</lem>
+                        <rdg wit="#AB">. Ku</rdg>
+                    </app>
                 <lb />swemu bliźniemu zawdy miał miłosierdzie.
                 <lb />Też był barzo czystego ciała, bo wszystkę
-                <lb />rozkosz cielestną do siebie był otrącił
+                <lb />rozkosz cielestną 
+                    <app>
+                        <lem wit="#IJP">od siebie</lem>
+                        <rdg wit="#AB">odsiebie</rdg>
+                    </app>
+                    był otrącił
                 <lb />i miłował czystotę; a przeto był
-                <lb />czysty z przyrodzenia swego i
+                <lb />czysty z przyrodzenia swego
+                    <app>
+                        <lem wit=""> i </lem>
+                        <rdg wit="#AB #IJP"></rdg>
+                    </app>
                 <lb />urodzenia, był czystygo natchienim
                 <lb />Ducha Świętego, był czysty z swego ciała,
-                <lb />czysty na duszy, czysty w cnych
+                <lb />czysty na duszy, czysty 
+                    <app>
+                        <lem wit="#IJP">w cnych</lem>
+                        <rdg wit="#AB">wcnych</rdg>
+                    </app>
                 </p>
                 <pb n="32" facs="#pg32" />
-                <p><lb />a w dostojnych obyczajoch. Człowieka
-                <lb />nijednego nie potępił ani potępiał,
+                <p><lb />a 
+                    <app>
+                        <lem wit="#IJP">w dostojnych obyczajoch</lem>
+                        <rdg wit="#AB">wdostojnych obyczajow</rdg>
+                    </app>
+                . Człowieka
+                <lb />nijednego 
+                    <app>
+                        <lem wit="#IJP">nie potępił</lem>
+                        <rdg wit="#AB">niepotępił</rdg>
+                    </app>
+                 ani potępiał,
                 <lb />ubogiego i bogatego jednako miłował
-                <lb />Też nie był żądny ani skąpy
-                <lb />przednie, ale szczody, miłościwy, wiesioły
+                <lb />Też nie był
+                    <app>
+                        <lem wit="#IJP">żądny</lem>
+                        <rdg wit="#AB">szczodry</rdg>
+                    </app>
+                 ani skąpy
+                <lb />przednie, ale szczodry, miłościwy, wiesioły
                 <lb />i Bogu miły. Czczenie o tem, jako
                 <lb />Jozef przyszedł do kościoła a kako
-                <lb />jego laska puściła odrośli i skwitła
+                <lb />jego laska puściła 
+                    <app>
+                        <lem wit="#IJP">odrośli</lem>
+                        <rdg wit="#AB">, obrosła</rdg>
+                    </app> i skwitła
                 <lb />a Duch Święty na niej siedział
                 <lb />Słysząc popowie ten głos i pewno
-                <lb />zwiedziawszy, iże Jozef, sługa boży,
+                <lb />zwiedziawszy, 
+                    <app>
+                        <lem wit="#IJP">iże</lem>
+                        <rdg wit="#AB">i że</rdg>
+                    </app>
+                 Jozef, sługa boży,
                 <lb />dostojen tej dziewice, natychmiast posłali
                 <lb />do Betlejem, aby też z swą laską
                 <lb />przyszedł do kościoła. A Jozef jako
                 <lb />prawdziwy człowiek natychmiast był
                 <lb />posłuszen a przyszed do Jerusalem i wszedł
-                <lb />w kościoł, nosząc swą laskę w ręku i podał
+                <lb />w kościoł, nosząc swą laskę 
+                    <app>
+                        <lem wit="#IJP">w ręku</lem>
+                        <rdg wit="#AB">wręku</rdg>
+                    </app> 
+                 i podał
                 <lb />ją wyszemu biskupowi. Jedno ją wziął,
                 <lb />aż natychmiast ona ista sucha laska puściła
-                <lb />odrośli i kwitła A jeszcze w ręku u
-                <lb />biskupa laska była, a Duch Święty zstąpiw
-                <lb />i  siedział na niej w gołębiczym wyobrażeniu,
-                <lb />ktoreż widzieli i poświaczszali
+                <lb />odrośli i kwitła A jeszcze 
+                    <app>
+                        <lem wit="#IJP">w ręku</lem>
+                        <rdg wit="#AB">wręku</rdg>
+                    </app>
+                 u
+                <lb />biskupa laska była, a Duch Święty 
+                    <app>
+                        <lem wit="#IJP">zstąpiw</lem>
+                        <rdg wit="#AB">stąpił</rdg>
+                    </app>
+                <lb />i siedział 
+                    <app>
+                        <lem wit="#IJP">na niej w gołębiczym</lem>
+                        <rdg wit="#AB">naniej wgołębiczym</rdg>
+                    </app>
+                 wyobrażeniu,
+                <lb />ktoreż widzieli i 
+                    <app>
+                        <lem wit="#IJP">poświaczszali</lem>
+                        <rdg wit="#AB">poświadczali</rdg>
+                    </app>
                 <lb />wielikie tłuszcze luda i dziwowali
                 <lb />sie temu nasilnie, a padnąwszy wszyscy na
                 <lb />swe kolana chwalili Boga wszechmogącego
@@ -282,61 +592,225 @@
                 </p>
                 <pb n="33" facs="#pg33" />
                 <p><lb />a dostojny, bo jest dziwnym znamieniem
-                <lb />od Boga wybrany, bo wierny a
-                <lb />prawdziwy sługa boży, tegodla jest
+                <lb />
+                    <app>
+                        <lem wit="#IJP">od Boga</lem>
+                        <rdg wit="#AB">odBoga</rdg>
+                    </app>
+                 wybrany, bo wierny a
+                <lb />prawdziwy sługa boży, 
+                    <app>
+                        <lem wit="#IJP">tegodla</lem>
+                        <rdg wit="#AB">tego dla</rdg>
+                    </app>
+                 jest
                 <lb />dostojen, aby jemu dana ta błogosławiona
-                <lb />dziewica Maryja, ktoraż krolem anjelskiem
-                <lb />nade wszystkie insze wybrana i
-                <lb />zasłużyła u Boga, aby w to dostojne
+                <lb />dziewica 
+                    <app>
+                        <lem wit="#IJP">Maryja</lem>
+                        <rdg wit="#AB">Marja</rdg>
+                    </app>
+                 , ktoraż krolem anjelskiem
+                <lb />
+                    <app>
+                        <lem wit="#IJP">nade wszystkie</lem>
+                        <rdg wit="#AB">nadewszystkie</rdg>
+                    </app>
+                 insze wybrana i
+                <lb />zasłużyła 
+                    <app>
+                        <lem wit="#IJP">u Boga</lem>
+                        <rdg wit="#AB">uBoga</rdg>
+                    </app>
+                 , aby 
+                    <app>
+                        <lem wit="#IJP">w to</lem>
+                        <rdg wit="#AB">wto</rdg>
+                    </app>
+                 dostojne
                 <lb />małżeństwo świętemu temu człowieku była
-                <lb />dana, bo ją Bog ućcił szwą chwałą, cnotą
+                <lb />dana, bo ją Bog 
+                    <app>
+                        <lem wit="#IJP">ućcił szwą</lem>
+                        <rdg wit="#AB">uczynił swą</rdg>
+                    </app>
+                 chwałą, cnotą
                 <lb />i wszytkim dostojeństwem. Czcienie
                 <lb />o tem, księża żydowska kazali
-                <lb />Jozefowi pojąć za żonę albo oblubieńcę
-                <lb />Maryją
-                <lb />Księża biskupowie i popowie żydowszczy
-                <lb />kazali Jozefowi, aby Maryją pojął sobie
-                <lb />oblubienicę i rzekli jemu: "Jozefie, mężu
+                <lb />Jozefowi pojąć
+                    <app>
+                        <lem wit="#IJP">za żonę</lem>
+                        <rdg wit="#AB">zażonę</rdg>
+                    </app>
+                     albo oblubieńcę
+                    <app>
+                        <lem wit="#IJP">Maryją</lem>
+                        <rdg wit="#AB">Marję</rdg>
+                    </app>
+                <lb />Księża biskupowie
+                    <app>
+                        <lem wit="#IJP"> i </lem>
+                        <rdg wit="#AB"></rdg>
+                    </app>
+                 popowie żydowszczy
+                <lb />kazali Jozefowi, aby 
+                    <app>
+                        <lem wit="#IJP">Maryją</lem>
+                        <rdg wit="#AB">Marję</rdg>
+                    </app>
+                     pojął sobie
+                <lb />
+                    <app>
+                        <lem wit="#IJP">oblubienicę</lem>
+                        <rdg wit="#AB">oblubieńcą</rdg>
+                    </app>
+                 i rzekli jemu: "Jozefie, mężu
                 <lb />naświętszy a Bogu miły, któryś dostojen
                 <lb />małżeństwa wybranej dziewice, bo
                 <lb />cie Bog przez wielikie cudo powyszył
-                <lb />i wybrał oblubienica dziewicy
-                <lb />Maryje, tegodla oddawamy tobie tę
-                <lb />dostojną dziewicę a każemy tobie,
-                <lb />by ją wziął za żonę". Odpowiedział jest
+                <lb />i wybrał 
+                    <app>
+                        <lem wit="#IJP">oblubienica</lem>
+                        <rdg wit="#AB">oblubienicą</rdg>
+                    </app>
+                 dziewicy
+                <lb />Maryje, 
+                    <app>
+                        <lem wit="#IJP">tegodla</lem>
+                        <rdg wit="#AB">tego dla</rdg>
+                    </app>
+                 oddawamy tobie 
+                    <app>
+                        <lem wit="#IJP">tę</lem>
+                        <rdg wit="#AB">to</rdg>
+                    </app>
+                <lb />
+                    <app>
+                        <lem wit="#IJP"> dostojną dziewicę</lem>
+                        <rdg wit="#AB"> dostojne dziewictwo</rdg>
+                    </app>
+                 a każemy tobie,
+                <lb />by ją wziął 
+                    <app>
+                        <lem wit="#IJP">za żonę</lem>
+                        <rdg wit="#AB">zażonę</rdg>
+                    </app>
+                ". Odpowiedział jest
                 <lb />im Jozef i rzekł: "Jaciem umyślił nigdy
-                <lb />oblubienice albo żony pojmować, bociem
+                <lb />oblubienice albo żony pojmować, 
+                    <app>
+                        <lem wit="#IJP">bociem</lem>
+                        <rdg wit="#AB">bo ciem</rdg>
+                    </app>
                 <lb />wszytkę miłość juże opuścił,
-                <lb />wszakoż aczbych miał tę wolą, iżbych
+                <lb />wszakoż 
+                    <app>
+                        <lem wit="#IJP">aczbych</lem>
+                        <rdg wit="#AB">acz bych</rdg>
+                    </app>
+                 miał tę 
+                    <app>
+                        <lem wit="#IJP">wolą</lem>
+                        <rdg wit="#AB">wolę</rdg>
+                    </app>
+                , iżbych
                 </p>
                 <pb n="34" facs="#pg34" />
                 <p><lb />chciał żonę pojąć, wszakoż nie jest
                 <lb />podobno, aby tako rozkoszne, tako
                 <lb />wielebne, tako święte dziewicy był oblubion.
-                <lb />Ja nędzny i wszego luda niszy nie
-                <lb />jestem dostojen poruszyć tako świętego
+                <lb />Ja nędzny
+                    <app>
+                        <lem wit="#IJP"> i</lem>
+                        <rdg wit="#AB">,</rdg>
+                    </app>
+                 wszego luda niszy
+                    <app>
+                        <lem wit="#IJP">nie jestem</lem>
+                        <rdg wit="#AB">niejestem</rdg>
+                    </app>
+                <lb /> dostojen poruszyć tako świętego
                 <lb />dziewictwa, bowim ja już przyszedł w
-                <lb />stare lata a nie jest podobno, iżbych tako
+                <lb />stare lata 
+                    <app>
+                        <lem wit="#IJP">a nie jest</lem>
+                        <rdg wit="#AB">, niejest</rdg>
+                    </app>
+                 podobno, iżbych tako
                 <lb />młodą i tako dostojną dziwkę pojął".
                 <lb />O modlitwie Jozefowej, kiedy ji
-                <lb />przymęcano pojąć dziewicę Maryją
+                <lb />przymęcano pojąć dziewicę 
+                    <app>
+                        <lem wit="#IJP">Maryją</lem>
+                        <rdg wit="#AB">Marję</rdg>
+                    </app>
                 <lb />A jako biskupowie i wszytek lud
                 <lb />poczęli ji przymęcać, by ją pojął,
                 <lb />Jozeg dał się na modlitwę i począł Boga
-                <lb />wszechmogącego z gorącymi łzami prosić
+                <lb />wszechmogącego 
+                    <app>
+                        <lem wit="#IJP">z gorącymi</lem>
+                        <rdg wit="#AB">sgorącymi</rdg>
+                    </app>
+                 łzami prosić
                 <lb />rzekąc: "Gospodnie wszechmogący,
-                <lb />stworzycielu nieba i ziemie a opiekalniku
+                <lb />stworzycielu nieba i ziemie
+                    <app>
+                        <lem wit="#IJP"> a</lem>
+                        <rdg wit="#AB">,</rdg>
+                    </app> 
+                 opiekalniku
                 <lb />rodzaju człowieczego! Tyś stworzył pirwego
-                <lb />człowieka s jiłowate ziemie i posadziłeś
-                <lb />ji w raju twe słodkości, z żebra albo
-                <lb />z kości stworzyłeś niewiastę, dawszy ją
-                <lb />jmu i przykazałaęś, abyszę mnożyli od
+                <lb />człowieka 
+                    <app>
+                        <lem wit="#IJP">s jiłowate</lem>
+                        <rdg wit="#AB">sjiłowate</rdg>
+                    </app>
+                 ziemie i posadziłeś
+                <lb />ji 
+                    <app>
+                        <lem wit="#IJP">w raju</lem>
+                        <rdg wit="#AB">wraju</rdg>
+                    </app>
+                 twe słodkości, 
+                    <app>
+                        <lem wit="#IJP">z żebra</lem>
+                        <rdg wit="#AB">zebra</rdg>
+                    </app>
+                 albo
+                <lb />
+                    <app>
+                        <lem wit="#IJP">z kości</lem>
+                        <rdg wit="#AB">skości</rdg>
+                    </app>
+                 stworzyłeś niewiastę, dawszy ją
+                <lb />jemu i przykazałeś, 
+                    <app>
+                        <lem wit="#IJP">abyszę</lem>
+                        <rdg wit="#AB">a by się</rdg>
+                    </app>
+                 mnożyli od
                 <lb />siebie rodzaj człowieczy, ale by się
-                <lb />schodzili przez gorącości a byszę mieli
-                <lb />płod w niewiństwie od grzecha; ale to
+                <lb />schodzili przez gorącości a 
+                    <app>
+                        <lem wit="#IJP">byszę</lem>
+                        <rdg wit="#AB">byś my</rdg>
+                    </app>
+                 mieli
+                <lb />płod 
+                    <app>
+                        <lem wit="#IJP">w niewiństwie od grzecha</lem>
+                        <rdg wit="#AB">wniewiństwie odgrzecha</rdg>
+                    </app>
+                ; ale to
                 <lb />dostojeństwo pirwa nasza rodzina swym
                 <lb />przestąpienim stracili i przywiedli nas,
-                <lb />swe dzieci, ku grzechu. A prze to ja
+                <lb />swe dzieci, ku grzechu
+                    <app>
+                        <lem wit="#IJP">. A</lem>
+                        <rdg wit="#AB"> a</rdg>
+                    </app>
+                 przeto ja
                 </p>
                 <pb n="35" facs="#pg35" />
                 <p><lb />chciałem sie tego grzecha chować

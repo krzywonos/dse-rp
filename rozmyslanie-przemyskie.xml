@@ -815,114 +815,382 @@
                 <pb n="35" facs="#pg35" />
                 <p><lb />chciałem sie tego grzecha chować
                 <lb />niewinien, myśliłem już nigdy cielestną
-                <lb />nieczystotą ciała ie pokalać, alem
-                <lb />czysto chować prze Cie duszę
-                <lb />moję ślubił, stworzycielu moj, jen jeś
-                <lb />miłośnik czystoty. Tegodla Ciebie, miły
-                <lb />Gospodnie, proszę, aby mię raczył zbawić,
-                <lb />abych nie przymęcon tej świętej dziewicy
-                <lb />poruszyć, ktora jest źwierciadło
+                <lb />nieczystotą ciała 
+                    <app>
+                        <lem wit="#IJP">nie pokalać</lem>
+                        <rdg wit="#AB">niepokalać</rdg>
+                    </app>, alem
+                <lb />czysto chować 
+                    <app>
+                        <lem wit="#IJP">prze Cie duszę</lem>
+                        <rdg wit="#AB"></rdg>
+                    </app>
+                <lb />
+                    <app>
+                        <lem wit="#IJP">moję ślubił</lem>
+                        <rdg wit="#AB"></rdg>
+                    </app>, stworzycielu moj, jen jeś
+                <lb />miłośnik czystoty
+                    <app>
+                        <lem wit="#IJP"></lem>
+                        <rdg wit="#AB">przecię duszę moję ślubił</rdg>
+                    </app>. 
+                    <app>
+                        <lem wit="#IJP">Tegodla</lem>
+                        <rdg wit="#AB">Tego dla</rdg>
+                    </app> Ciebie, miły
+                <lb />Gospodnie, proszę, aby mię raczył 
+                    <app>
+                        <lem wit="#IJP">zbawić</lem>
+                        <rdg wit="#AB">zabawić</rdg>
+                    </app>,
+                <lb />
+                    <app>
+                        <lem wit="#IJP">abych nie przymęcon</lem>
+                        <rdg wit="#AB">a bych nieprzymęczon,</rdg>
+                    </app> tej świętej dziewicy
+                <lb />poruszyć, ktora jest 
+                    <app>
+                        <lem wit="#AB">zwierciadło</lem>
+                        <rdg wit="#IJP">źwierciadło</rdg>
+                    </app>
                 <lb />czystoty i przybytek wiernego bostwa".
-                <lb />Czczenie o tem, jako anjoł Jozefa
-                <lb />prosił, by sobie pojął Maryją oblubieńcę
+                <lb />Czczenie o tem, jako
+                    <app>
+                        <lem wit="#IJP">anjoł</lem>
+                        <rdg wit="#AB">anioł</rdg>
+                    </app> Jozefa
+                <lb />prosił, by sobie pojął
+                    <app>
+                        <lem wit="#IJP">Maryją oblubieńcę</lem>
+                        <rdg wit="#AB">Marję oblubieńcą</rdg>
+                    </app>
                 <lb />a by się nią opiekał
-                <lb />Tedy się anjoł jemu pokazał i począł
+                <lb />
+                    <app>
+                        <lem wit="#IJP">Tedy</lem>
+                        <rdg wit="#AB">Kiedy</rdg>
+                    </app> się anjoł jemu pokazał i począł
                 <lb />ji wiesielić rzekąc: "O Jozefie,
-                <lb />sługo boży! O tę swą przytczą nie
+                <lb />sługo boży! 
+                    <app>
+                        <lem wit="#IJP">O tę</lem>
+                        <rdg wit="#AB">Otę</rdg>
+                    </app> swą 
+                    <app>
+                        <lem wit="#IJP">przytczą</lem>
+                        <rdg wit="#AB">przydczę</rdg>
+                    </app> nie
                 <lb />męci się, ale się wiesiel a ślubi
-                <lb />sobie Maryją oblubienicę, boć to jest
+                <lb />sobie 
+                    <app>
+                        <lem wit="#IJP">Maryją oblubieńcę</lem>
+                        <rdg wit="#AB">Marję oblubienicą</rdg>
+                    </app>, boć to jest
                 <lb />podlug twego obiecania wierna miłośnica
                 <lb />dziewictwa i świca świętej czystoty a
-                <lb />podług twej woli ona żąda czysta dziewica
-                <lb />ostać. Bo przez tę dziewicę anjelskie
+                <lb />podług twej woli ona żąda 
+                    <app>
+                        <lem wit="#IJP">czysta dziewica</lem>
+                        <rdg wit="#AB">czystą dziewicą</rdg>
+                    </app>
+                <lb />ostać
+                    <app>
+                        <lem wit="#IJP">. Bo</lem>
+                        <rdg wit="#AB">, bo</rdg>
+                    </app> przez tę dziewicę 
+                    <app>
+                        <lem wit="#IJP">anjelskie</lem>
+                        <rdg wit="#AB">anielskie</rdg>
+                    </app>
                 <lb />ma być naprawienie a też przez
                 <lb />tę dziewicę krolestwo żydowskie ma być
-                <lb />poprawiono, przez tę lud żydowski będzie
+                <lb />poprawiono, przez 
+                    <app>
+                        <lem wit="#IJP">tę</lem>
+                        <rdg wit="#AB">tę</rdg>
+                    </app> lud żydowski będzie
                 <lb />powyszon, przez tę będzie wszystek
                 <lb />świat zbawion, przez tę krolestwo niebieskie
                 </p>
                 <pb n="36" facs="#pg36" />
                 <p><lb />będzie powyszono, przez tę bedzie moc
-                <lb />piekielna rozbita. Tegodla ślubi ją sobie
-                <lb />i przyłęczy oblubieńcę. Wszakoż ją
-                <lb />zawżdy w jej dostojeństwie będziesz chować,
+                <lb />piekielna rozbita. 
+                    <app>
+                        <lem wit="#IJP">Tegodla</lem>
+                        <rdg wit="#AB">Tego dla</rdg>
+                    </app> ślubi ją sobie
+                <lb />i 
+                    <app>
+                        <lem wit="#IJP">przyłęczy</lem>
+                        <rdg wit="#AB">przyłączy</rdg>
+                    </app> oblubieńcę. Wszakoż ją
+                <lb />zawżdy 
+                    <app>
+                        <lem wit="#IJP">w jej</lem>
+                        <rdg wit="#AB">wjej</rdg>
+                    </app> dostojeństwie będziesz chować,
                 <lb />omyślając jej potrzeby a służąc
-                <lb />jako swej krolownie". O modlitwie
-                <lb />błogosławionej dziewice Maryje, kiedy
+                <lb />jako swej 
+                    <app>
+                        <lem wit="#IJP">krolownie</lem>
+                        <rdg wit="#AB">krolewnie</rdg>
+                    </app>". 
+                    <app>
+                        <lem wit="#IJP">O modlitwie</lem>
+                        <rdg wit="#AB">Omodlitwie</rdg>
+                    </app>
+                <lb />błogosławionej dziewice 
+                    <app>
+                        <lem wit="#IJP">Maryje</lem>
+                        <rdg wit="#AB">Marje</rdg>
+                    </app>, kiedy
                 <lb />jej kazano Jozefa pojąć oblubieńcem
                 <lb />Żydowie kiedy poczęli błogosławioną dziewicę
-                <lb />przymęcać, aby Jozefa, sługę bożego, oblubiła
+                <lb />
+                    <app>
+                        <lem wit="#IJP">przymęcać, aby</lem>
+                        <rdg wit="#AB">przymęczać, a by</rdg>
+                    </app> Jozefa, sługę bożego, oblubiła
                 <lb />sobie mężem, uciekła sie ku Bogu wszechmogącemu
-                <lb />z gorącymi łzami i poczęła sie modlić z ciężkim
+                <lb />
+                    <app>
+                        <lem wit="#IJP">z gorącymi</lem>
+                        <rdg wit="#AB">zgorącymi</rdg>
+                    </app> łzami i poczęła sie modlić 
+                    <app>
+                        <lem wit="#IJP">z ciężkim</lem>
+                        <rdg wit="#AB">sciężkim</rdg>
+                    </app>
                 <lb />wzdychanim serca rzekąc: "O krolu niebieski,
                 <lb />o wierny obeźrzycielu każdego czystego serca,
                 <lb />ani mego ciała, ani ducha,
-                <lb />zawżdym moj duch czysto chowała a nad Cie innego
-                <lb />nie żądała ani miłowała, a Tobiem moj kwiat mej
-                <lb />czystoty ofierowała, a Tobie samemu moje
+                <lb />
+                    <app>
+                        <lem wit="#IJP">zawżdym</lem>
+                        <rdg wit="#AB">zawżdy</rdg>
+                    </app> moj duch czysto chowała 
+                    <app>
+                        <lem wit="#IJP">a nad Cie</lem>
+                        <rdg wit="#AB">, nadcie</rdg>
+                    </app> innego
+                <lb />
+                    <app>
+                        <lem wit="#IJP">nie żądała</lem>
+                        <rdg wit="#AB">nieżądała</rdg>
+                    </app> ani miłowała, a Tobiem moj kwiat mej
+                <lb />czystoty ofierowała, 
+                    <app>
+                        <lem wit="#IJP">a Tobie</lem>
+                        <rdg wit="#AB">tobie</rdg>
+                    </app> samemu moje
                 <lb />dziewictwo schowała. Ale dzisia, moj namilejszy
                 <lb />Gospodnie, przymęcają mie, abych
                 <lb />ten ślub i tę obietnicę przestąpiła, bo
                 <lb />mie już oddalają Twej rozkosznej miłości,
-                <lb />iże już przymęcają mię i mącą inego
-                <lb />oblubienica ślubić i przyłęczyć sie
+                <lb />iże już przymęcają 
+                    <app>
+                        <lem wit="#IJP">mię i mącą</lem>
+                        <rdg wit="#AB">mi i mocą</rdg>
+                    </app> inego
+                <lb />oblubienica ślubić i 
+                    <app>
+                        <lem wit="#IJP">przyłęczyć</lem>
+                        <rdg wit="#AB">przyłączyć</rdg>
+                    </app> sie
                 <lb />mężowi obcemu. Jedyna nadziejo zbawienia
-                <lb />mego, oćzce i stworzycielu moj,
-                <lb />proszę Ciebie, aby nie przepuścił
+                <lb />mego, 
+                    <app>
+                        <lem wit="#IJP">oćcze</lem>
+                        <rdg wit="#AB">czczy</rdg>
+                    </app> i stworzycielu moj,
+                <lb />proszę Ciebie, 
+                    <app>
+                        <lem wit="#IJP">aby nie przepuścił</lem>
+                        <rdg wit="#AB">a by nieprzepuścił</rdg>
+                    </app>
                 </p>
                 <pb n="37" facs="#pg37" />
                 <p><lb />ciała mego i dziewictwa poruszyć, bo jeś Ty
                 <lb />moj towarzysz i przybytku
-                <lb />serca mego osobny obranice. Ciebiem miłowała,
+                <lb />serca mego osobny obraniec. Ciebiem miłowała,
                 <lb />Tobiem sie radowała, Ciebiem zawżdy
-                <lb />żądała, nad Cie oblubieńca nie
-                <lb />szukała. Tyś sam oblubieniec moj, Ty jeś
+                <lb />żądała, nad 
+                    <app>
+                        <lem wit="#IJP">Cie</lem>
+                        <rdg wit="#AB">cię</rdg>
+                    </app> oblubieńca 
+                    <app>
+                        <lem wit="#IJP">nie szukała</lem>
+                        <rdg wit="#AB">nieszukała</rdg>.
+                    </app>
+                <lb />Tyś sam oblubieniec moj, Ty jeś
                 <lb />sam mąż moj, Ty jeś sam naświętszy,
-                <lb />Ty jeś sam umowny i nade wszytki wybrany
-                <lb />Tyś wielebniejszy, nade wszystki ine
-                <lb />krasszy. Ty jeś moj tajemnik, Ty jeś
+                <lb />Ty jeś sam umowny i 
+                    <app>
+                        <lem wit="#IJP">nade szwytki wybrany</lem>
+                        <rdg wit="#AB">naswytkę radę,</rdg>
+                    </app>
+                <lb />Tyś wielebniejszy, 
+                    <app>
+                        <lem wit="#IJP">nade wszystki</lem>
+                        <rdg wit="#AB">nadewszystki</rdg>
+                    </app> ine
+                <lb />
+                    <app>
+                        <lem wit="#IJP">krasszy</lem>
+                        <rdg wit="#AB">kraszy</rdg>
+                    </app>. Ty jeś moj tajemnik, Ty jeś
                 <lb />moj zbawiciel, Ty jeś sam moj miły
                 <lb />i miłośnik, Ty jeś moj przyjacil i
-                <lb />towarzysz Tegodla, moj namilejszy,
+                <lb />towarzysz. 
+                    <app>
+                        <lem wit="#IJP">Tegodla</lem>
+                        <rdg wit="">Tego dla</rdg>
+                    </app>, moj namilejszy,
                 <lb />dzisia Ciebie proszę, miłościwie
-                <lb />wybaw mie z tego wielikiego smętku".
-                <lb />Czcienie o tem, jako anjoł pokazaw sie
+                <lb />wybaw mie 
+                    <app>
+                        <lem wit="#IJP">z tego</lem>
+                        <rdg wit="#AB">stego</rdg>
+                    </app> wielikiego smętku".
+                <lb />Czcienie o tem, jako 
+                    <app>
+                        <lem wit="#IJP">anjoł pokazaw</lem>
+                        <rdg wit="#AB">anioł pokazał</rdg>
+                    </app> sie
                 <lb />bogosławionej i wielebnej dziewicy
-                <lb />Maryjej, podpomaga ją i wiesieli
-                <lb />ją z jej smętku, iże przymęcona
+                <lb />
+                    <app>
+                        <lem wit="#IJP">Maryjej</lem>
+                        <rdg wit="#AB">Marjej</rdg>
+                    </app>, podpomaga ją i wiesieli
+                <lb />ją 
+                    <app>
+                        <lem wit="#IJP">z jej</lem>
+                        <rdg wit="#AB">zkek</rdg>
+                    </app> smętku, 
+                    <app>
+                        <lem wit="#IJP">iże przymęcona</lem>
+                        <rdg wit="#AB">i że przymęczona</rdg>
+                    </app>
                 <lb />Jozefa pojąć
-                <lb />Maryja kiedy była tako długo na
-                <lb />modlitwie, z wielikiemi łzami Boga
-                <lb />wszechmogącego wzywajęcy, anjoł
-                <lb />z niebios przyszedł k niej wiesieląc
-                <lb />ją: "Maryja, dziewice święta, nie udręczaj
+                <lb />Maryja kiedy była tako długo
+                    <app>
+                        <lem wit="#IJP">na modlitwie</lem>
+                        <rdg wit="#AB">namodlitwie</rdg>
+                    </app>,
+                <lb />
+                    <app>
+                        <lem wit="#IJP">z wielikiemi</lem>
+                        <rdg wit="#AB">zwielikiemi</rdg>
+                    </app> łzami Boga
+                <lb />wszechmogącego wzywajęcy, 
+                    <app>
+                        <lem wit="#IJP">anjoł</lem>
+                        <rdg wit="#AB">anioł</rdg>
+                    </app>
+                <lb />
+                    <app>
+                        <lem wit="#IJP">z niebios</lem>
+                        <rdg wit="#AB">zniebios</rdg>
+                    </app> przyszedł k niej wiesieląc
+                <lb />ją: "
+                    <app>
+                        <lem wit="#IJP">Maryja</lem>
+                        <rdg wit="#AB">Marja</rdg>
+                    </app>, dziewice święta, 
+                    <app>
+                        <lem wit="#IJP">nie udręczaj sie</lem>
+                        <rdg wit="#AB">nieudręczajsie</rdg>
+                    </app>
                 <lb />sie tako wielmi smętkiem, iże Bog
                 <lb />obeźrał i usłyszał twe modlitwy i
                 </p>
                 <pb n="38" facs="#pg38" />
-                <p><lb />posłał mię z nieba k tobie, bych cie ucieszył,
-                <lb />bo cie chce w twem dziewiczem
+                <p><lb />posłał mię 
+                    <app>
+                        <lem wit="#IJP">z nieba k tobie</lem>
+                        <rdg wit="#AB">znieba ktobie</rdg>
+                    </app>, bych cie ucieszył,
+                <lb />bo cie chce 
+                    <app>
+                        <lem wit="#IJP">w twem</lem>
+                        <rdg wit="#AB">wtem</rdg>
+                    </app> dziewiczem
                 <lb />stadle. Wszakoż będziesz oddana podług
-                <lb />obyczaja małżeńskiego temu
+                <lb />
+                    <app>
+                        <lem wit="#IJP"></lem>
+                        <rdg wit="#AB">małżeństwa i </rdg>
+                    </app>obyczaja małżeńskiego temu
                 <lb />świętemu mężowi Jozefowi, jen ciebie
-                <lb />schowa w twem dostojnym dziewictwie,
-                <lb />iże czystą panną na wieki ostaniesz, wszakoż
-                <lb />zakon popełnisz i ustawienie Mojżeszowo,
+                <lb />schowa 
+                    <app>
+                        <lem wit="#IJP">w twem</lem>
+                        <rdg wit="#AB">wtem</rdg>
+                    </app> dostojnym dziewictwie,
+                <lb />iże czystą panną 
+                    <app>
+                        <lem wit="#IJP">na wieki</lem>
+                        <rdg wit="#AB">nawieki</rdg>
+                    </app> ostaniesz, wszakoż
+                <lb />zakon popełnisz 
+                    <app>
+                        <lem wit="#IJP">i</lem>
+                        <rdg wit="#AB"></rdg>
+                    </app> ustawienie Mojżeszowo,
                 <lb />bo masz być oddana świętemu mężu
                 <lb />Jozefowi i będziesz jemu przyłączona
-                <lb />obyczajem małżeńskiem. Tenci jest
+                <lb />obyczajem małżeńskiem. 
+                    <app>
+                        <lem wit="#IJP">Tenci</lem>
+                        <rdg wit="#AB">Ten ci</rdg>
+                    </app> jest
                 <lb />mąż dziwnego miłosierdzia a twego
-                <lb />ślubu wierny miłośnik dostojne czystoty,
-                <lb />bo od swego dziewictwa żył w kaźni boże
-                <lb />wiernie i we cnocie swego żywota a też
+                <lb />ślubu wierny miłośnik
+                    <app>
+                        <lem wit="#IJP"> dostojne</lem>
+                        <rdg wit="#AB">, dostojen</rdg>
+                    </app> czystoty,
+                <lb />bo od swego dziewictwa żył 
+                    <app>
+                        <lem wit="#IJP">w kaźni boże</lem>
+                        <rdg wit="#AB">wkaźni Boże</rdg>
+                    </app>
+                <lb />wiernie
+                    <app>
+                        <lem wit="#IJP"></lem>
+                        <rdg wit="#AB"> swego żywota</rdg>
+                    </app> i 
+                    <app>
+                        <lem wit="#IJP">we cnocie</lem>
+                        <rdg wit="#AB">wecnocie</rdg>
+                    </app> 
+                    <app>
+                        <lem wit="#IJP">swego żywota</lem>
+                        <rdg wit=""></rdg>
+                    </app> a też
                 <lb />jest barzo cichy, śmierny i dostojny
-                <lb />a szwej rozkoszy cielestne wieliki nieprzyjaciel,
-                <lb />w słowie prawdziwy, śmierny a barzo
-                <lb />poczestny. Tegodla twego małżeństwa
+                <lb />a 
+                    <app>
+                        <lem wit="#AB">swej</lem>
+                        <rdg wit="#IJP">szwej</rdg>
+                    </app> rozkoszy cielestne wieliki nieprzyjaciel,
+                <lb />
+                    <app>
+                        <lem wit="#IJP">w słowie</lem>
+                        <rdg wit="#AB">wsłowie</rdg>
+                    </app> prawdziwy, śmierny a barzo
+                <lb />poczestny. 
+                    <app>
+                        <lem wit="#IJP">Tegodla</lem>
+                        <rdg wit="#AB">Tego dla</rdg>
+                    </app> twego małżeństwa
                 <lb />jest dostojen a ciebie nigdy ktorem
                 <lb />gniewem ani smętkiem ani pogorszenim
                 <lb />zakłopoce, ale cie zawżdy będzie chować
-                <lb />jako czystą dziwekę a będzie tajemnik
+                <lb />jako czystą dziewkę a będzie tajemnik
                 <lb />twej czystości. Ten będzie omyślał
                 <lb />potrzeby twemu żywotu a służbę czystą
                 <lb />będzie tobie ukazować. On tobie będzie
@@ -930,32 +1198,100 @@
                 </p>
                 <pb n="39" facs="#pg39" />
                 <p><lb />jemu będziesz siostra, oblubieńca i
-                <lb />matka". A zmowiwszy to anjoł nie dał sie
-                <lb />dalej widzieci a Maryja za tem ucieszenim
+                <lb />matka". A zmowiwszy to 
+                    <app>
+                        <lem wit="#IJP">anjoł</lem>
+                        <rdg wit="#AB">anioł</rdg>
+                    </app> nie dał sie
+                <lb />dalej widzieci a 
+                    <app>
+                        <lem wit="#IJP">Maryja</lem>
+                        <rdg wit="#AB">Marja</rdg>
+                    </app> za tem ucieszenim
                 <lb />polecała sie Bogu wszechmogącemu
                 <lb />z wielikiem dziękowanim. Potem
-                <lb />czcienie o tem, jako dziewica Maryja
+                <lb />czcienie o tem, jako dziewica 
+                    <app>
+                        <lem wit="#IJP">Maryja</lem>
+                        <rdg wit="#AB">Marja</rdg>
+                    </app>
                 <lb />oddana Jozefowi a jako jemu popowie
                 <lb />dali roku trzy miesiące pojąć
-                <lb />Maryją sobie oblubieńcę
+                <lb />
+                    <app>
+                        <lem wit="#IJP">Maryją</lem>
+                        <rdg wit="#AB">Marję</rdg>
+                    </app> sobie 
+                    <app>
+                        <lem wit="#IJP">oblubieńcę</lem>
+                        <rdg wit="#AB">oblubieńcą</rdg>
+                    </app>
                 <lb />Potem natychmiast księża żydowska
                 <lb />wezwawszy błogosławioną dziewicę
-                <lb />Maryją i oddali ślubnie dostojnemu mężu
+                <lb />
+                    <app>
+                        <lem wit="#IJP">Maryją</lem>
+                        <rdg wit="#AB">Marję</rdg>
+                    </app> i oddali ślubnie dostojnemu mężu
                 <lb />Jozefowi a dali jemu roku trzy miesiące,
-                <lb />by jej nie brał aże po dwanaście
+                <lb />by jej nie brał aże 
+                    <app>
+                        <lem wit="#IJP">po dwanaście</lem>
+                        <rdg wit="#AB">podwaście</rdg>
+                    </app>
                 <lb />niedziel. Tako Jozef natychmiast wrocił się
-                <lb />do Betleem z wielikiem weselim, dziękując
-                <lb />Bogu wszechmogącemu z takiego daru i
-                <lb />naprawił potrzeby domowe ku swej swadźbie.
+                <lb />do Betleem 
+                    <app>
+                        <lem wit="#IJP">z wielikiem</lem>
+                        <rdg wit="#AB">zwielikiem</rdg>
+                    </app> weselim, dziękując
+                <lb />Bogu wszechmogącemu 
+                    <app>
+                        <lem wit="#IJP">z takiego</lem>
+                        <rdg wit="#AB">stakiego</rdg>
+                    </app> daru i
+                <lb />naprawił potrzeby domowe ku swej 
+                    <app>
+                        <lem wit="#IJP">swadźbie</lem>
+                        <rdg wit="#AB">swaćbie</rdg>
+                    </app>.
                 <lb />Czcienie o tem, jako książęta żydowska
-                <lb />posłali Maryją do Nazaret w dom jej
-                <lb />ojca a dali jej siedm panien na
-                <lb />świadectwo jej czystoty
-                <lb />Kiedy dziewicę Maryją do Nazaret biskupi
+                <lb />posłali 
+                    <app>
+                        <lem wit="#IJP">Maryją</lem>
+                        <rdg wit="#AB">Marję</rdg>
+                    </app> do Nazaret 
+                    <app>
+                        <lem wit="#IJP">w dom</lem>
+                        <rdg wit="#AB">wdom</rdg>
+                    </app> jej
+                <lb />ojca a dali jej siedm panien
+                <lb />
+                    <app>
+                        <lem wit="#IJP">na świadectwo</lem>
+                        <rdg wit="#AB">naświadectwo</rdg>
+                    </app> jej czystoty
+                <lb />Kiedy dziewicę 
+                    <app>
+                        <lem wit="#IJP">Maryją</lem>
+                        <rdg wit="#AB">Marję</rdg>
+                    </app> do Nazaret biskupi
                 <lb />posłali do jej ojca, oddali ją siedmi
-                <lb />pannam jej towarzyszek, ktoryż s nią
-                <lb />przebywały w bożem domu,
-                <lb />aby ją cieszyły a też czyniły świadectwo jej
+                <lb />pannam jej towarzyszek, 
+                    <app>
+                        <lem wit="#IJP">ktoryż s nią</lem>
+                        <rdg wit="#AB">ktorzyż snią</rdg>
+                    </app>
+                <lb />przebywały 
+                    <app>
+                        <lem wit="#IJP">w bożem</lem>
+                        <rdg wit="#AB">w Bożem</rdg>
+                    </app> domu,
+                <lb />
+                    <app>
+                        <lem wit="#IJP">aby</lem>
+                        <rdg wit="#AB">a by</rdg>
+                    </app> ją cieszyły a też czyniły świadectwo jej
                 </p>
             </div>
             <gap></gap>

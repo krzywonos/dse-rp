@@ -174,37 +174,37 @@
     </teiHeader>
     <facsimile>
         <surface xml:id="pg29" corresp="#p29">
-            <graphic url="base-images\29.jpg" width="4941px" height="6599px"/>
+            <graphic url="..\images\single\29.jpg" width="4941px" height="6599px"/>
         </surface>
         <surface xml:id="pg30" corresp="#p30">
-            <graphic url="base-images\30.jpg" width="4846px" height="6476px" />
+            <graphic url="..\images\single\30.jpg" width="4846px" height="6476px" />
         </surface>
         <surface xml:id="pg31" corresp="#p31">
-            <graphic url="base-images\31.jpg" width="4941px" height="6599px" />
+            <graphic url="..\images\single\31.jpg" width="4941px" height="6599px" />
         </surface>
         <surface xml:id="pg32" corresp="#p32">
-            <graphic url="base-images\32.jpg" width="4846px" height="6476px" />
+            <graphic url="..\images\single\32.jpg" width="4846px" height="6476px" />
         </surface>
         <surface xml:id="pg33" corresp="#p33">
-            <graphic url="base-images\33.jpg" width="4941px" height="6599px" />
+            <graphic url="..\images\single\33.jpg" width="4941px" height="6599px" />
         </surface>
         <surface xml:id="pg34" corresp="#p34">
-            <graphic url="base-images\34.jpg" width="4846px" height="6476px" />
+            <graphic url="..\images\single\34.jpg" width="4846px" height="6476px" />
         </surface>
         <surface xml:id="pg35" corresp="#p35">
-            <graphic url="base-images\35.jpg" width="4941px" height="6599px" />
+            <graphic url="..\images\single\35.jpg" width="4941px" height="6599px" />
         </surface>
         <surface xml:id="pg36" corresp="#p36">
-            <graphic url="base-images\36.jpg" width="4846px" height="6476px" />
+            <graphic url="..\images\single\36.jpg" width="4846px" height="6476px" />
         </surface>
         <surface xml:id="pg37" corresp="#p37">
-            <graphic url="base-images\37.jpg" width="4941px" height="6599px" />
+            <graphic url="..\images\single\37.jpg" width="4941px" height="6599px" />
         </surface>
         <surface xml:id="pg38" corresp="#p38">
-            <graphic url="base-images\38.jpg" width="4846px" height="6476px" />
+            <graphic url="..\images\single\38.jpg" width="4846px" height="6476px" />
         </surface>
         <surface xml:id="pg39" corresp="#p39">
-            <graphic url="base-images\39.jpg" width="4941px" height="6599px" />
+            <graphic url="..\images\single\39.jpg" width="4941px" height="6599px" />
         </surface>
     </facsimile>
     <text xml:lang="pl">

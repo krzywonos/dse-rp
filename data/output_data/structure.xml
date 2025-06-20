@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <msDesc active="1"/>
+   <headerInfo active="1"/>
+   <bibliography active="1"/>
+   <front active="1"/>
+   <translation active="1">
+      <lang>it</lang>
+      <lang>de</lang>
+      <lang>es</lang>
+      <lang>fr</lang>
+   </translation>
+   <liste>
+      <listPerson active="1" lang="def">LIST_PERSON</listPerson>
+   </liste>
+   <editions>
+      <edition data-key="dipl">Diplomatic</edition>
+      <edition data-key="interp">Interpretative</edition>
+   </editions>
+   <textpage>
+      <text n="1" label="text 1">
+         <pb n="29">p29</pb>
+         <pb n="30">p30</pb>
+         <pb n="31">p31</pb>
+         <pb n="32">p32</pb>
+         <pb n="33">p33</pb>
+         <pb n="34">p34</pb>
+         <pb n="35">p35</pb>
+         <pb n="36">p36</pb>
+         <pb n="37">p37</pb>
+         <pb n="38">p38</pb>
+         <pb n="39">p39</pb>
+      </text>
+   </textpage>
+   <pages>
+      <pair>
+         <pb n="29">p29</pb>
+      </pair>
+      <pair>
+         <pb n="30">p30</pb>
+      </pair>
+      <pair>
+         <pb n="31">p31</pb>
+      </pair>
+      <pair>
+         <pb n="32">p32</pb>
+      </pair>
+      <pair>
+         <pb n="33">p33</pb>
+      </pair>
+      <pair>
+         <pb n="34">p34</pb>
+      </pair>
+      <pair>
+         <pb n="35">p35</pb>
+      </pair>
+      <pair>
+         <pb n="36">p36</pb>
+      </pair>
+      <pair>
+         <pb n="37">p37</pb>
+      </pair>
+      <pair>
+         <pb n="38">p38</pb>
+      </pair>
+      <pair>
+         <pb n="39">p39</pb>
+      </pair>
+   </pages>
+   <idno>VB</idno>
+</xml>

@@ -53,6 +53,7 @@
                                 <msItem>
                                     <author>Unknown</author>
                                     <title>Rozmyślanie o żywocie Pana Jezusa</title>
+                                    <title>Rozmyślanie przemyskie</title>
                                     <textLang mainLang="pl">Polish</textLang>
                                 </msItem>
                             </msContents>
@@ -207,30 +208,30 @@
             <graphic url="..\images\single\39.jpg" width="4941px" height="6599px" />
         </surface>
     </facsimile>
-    <text xml:lang="pl">
+    <text>
         <body>
             <gap quantity="28" unit="pages" reason="sampling" extent="from 1 to 28" />
             <div type="parallelText">
                 <div type="source" xml:lang="pl">
                     <pb xml:id="p29" n="29" facs="#pg29" />
                     <p>
-                        <lb />ką mieli uczynić”. Czcienie o tem,
-                        <lb />iże kapłani postawili i przykazali
-                        <lb />post za trzy dni prze 
+                        <lb n="1" />ką mieli uczynić”. Czcienie o tem,
+                        <lb n="2" />iże kapłani postawili i przykazali
+                        <lb n="3" />post za trzy dni prze 
                             <choice>
                                 <orig>dziewicą</orig>
                                 <reg>dziewicę</reg>
                             </choice>
-                        <lb />
+                        <lb n="4" />
                             <persName ref="#Mary"><choice>
                                 <orig>Maryą</orig>
                                 <reg>Maryją</reg>
                             </choice></persName> z wielikim nabożeństwem
-                        <lb />Biskupi i księża żydowska przykazali
-                        <lb />za trzy dni, z wielikiem nabożeństwem
-                        <lb />wzywając i prosząc Boga wszechmogącego,
-                        <lb />by im raczył zjawić i przykazać przez anjoła,
-                        <lb />co 
+                        <lb n="5" />Biskupi i księża żydowska przykazali
+                        <lb n="6" />za trzy dni, z wielikiem nabożeństwem
+                        <lb n="7" />wzywając i prosząc Boga wszechmogącego,
+                        <lb n="8" />by im raczył zjawić i przykazać przez anjoła,
+                        <lb n="9" />co 
                             <choice>
                                 <orig>bych</orig>
                                 <reg>bychą</reg>
@@ -239,51 +240,51 @@
                                 <orig>mili</orig>
                                 <reg>mieli</reg>
                             </choice> uczynić.
-                        <lb />O tem głosie, ktory słyszeli w kościele
-                        <lb />ukazując, kto był małżeństwa
-                        <lb />dostojen z dziewicą 
+                        <lb n="10" />O tem głosie, ktory słyszeli w kościele
+                        <lb n="11" />ukazując, kto był małżeństwa
+                        <lb n="12" />dostojen z dziewicą 
                             <persName ref="#Mary"><choice>
                                 <orig>Maryą</orig>
                                 <reg>Maryją</reg>
                             </choice></persName>
-                        <lb />Potem trzeciego dnia stał sie głos wieliki
-                        <lb />w kościele, aże wszyscy słyszeli, jiż
+                        <lb n="13" />Potem trzeciego dnia stał sie głos wieliki
+                        <lb n="14" />w kościele, aże wszyscy słyszeli, jiż
                             <choice>
                                 <sic>iż</sic>
                                 <reg>jiż</reg>
                             </choice> tako
-                        <lb />mowił, aby wszyscy młodzieńcy z pokolenia
-                        <lb /><persName ref="#David">Dawidowa</persName> albo <persName ref="#Judah">Juda</persName>, jego dziada, młodzi i
-                        <lb />starzy, ktorzy by 
+                        <lb n="15" />mowił, aby wszyscy młodzieńcy z pokolenia
+                        <lb n="16" /><persName ref="#David">Dawidowa</persName> albo <persName ref="#Judah">Juda</persName>, jego dziada, młodzi i
+                        <lb n="17" />starzy, ktorzy by 
                             <choice>
                                 <orig></orig>
                                 <reg><add>jeszcze</add></reg>
                             </choice> nie byli w
-                        <lb />małżeństwie, iżby przyszli do kościoła a by
-                        <lb />każdy niosł w ręce rozgę albo laskę, a 
+                        <lb n="18" />małżeństwie, iżby przyszli do kościoła a by
+                        <lb n="19" />każdy niosł w ręce rozgę albo laskę, a 
                             <choice>
                                 <orig></orig>
                                 <reg><add>przyszedł</add></reg>
                             </choice>
-                        <lb />
+                        <lb n="20" />
                             <choice>
                                 <orig></orig>
                                 <reg><add>do kościoła</add></reg>
                             </choice> by ją podał swemu biskupowi
-                        <lb />wyszemu, 
+                        <lb n="21" />wyszemu, 
                             <choice>
                                 <sic>iż</sic>
                                 <reg>jiż</reg>
                             </choice> by ją miał postawić pospołu
-                        <lb />przy ołtarzu, a na czyjej by się lasce
-                        <lb />pokazała latorośl i kwiat, potem kiedy by ją
-                        <lb />
+                        <lb n="22" />przy ołtarzu, a na czyjej by się lasce
+                        <lb n="23" />pokazała latorośl i kwiat, potem kiedy by ją
+                        <lb n="24" />
                             <choice>
                                 <orig>biskupowie</orig>
                                 <reg>biskupowi</reg>
                             </choice> podał, a też na nie by Duch
-                        <lb />Święty siedział w gołębkowem wyobrażeniu,
-                        <lb />iżeć 
+                        <lb n="25" />Święty siedział w gołębkowem wyobrażeniu,
+                        <lb n="26" />iżeć 
                             <choice>
                                 <orig>tej</orig>
                                 <reg>ten</reg>
@@ -296,63 +297,63 @@
                                     <orig>Marya</orig>
                                     <reg>Maryja</reg>
                             </choice></persName>
-                        <lb />dziewica dana ku małżeństwu. Tegodla
-                        <lb />biskupi wszyscy i księża żydowszczy
+                        <lb n="27" />dziewica dana ku małżeństwu. Tegodla
+                        <lb n="28" />biskupi wszyscy i księża żydowszczy
                     </p>
                     <pb xml:id="p30" n="30" facs="#pg30" />
                     <p>
-                        <lb />przykazali wszystkiem w żydowskiej ziemi,
-                        <lb />
+                        <lb n="1" />przykazali wszystkiem w żydowskiej ziemi,
+                        <lb n="2" />
                             <choice>
                                 <orig>ktoryż koli</orig>
                                 <reg>ktorzyżkoli</reg>
                             </choice> by byli z pokolenia z <persName ref="#Judah">Juda</persName>,
-                        <lb />z ktoregoż był <persName ref="#David">Dawid</persName>, ktorzy by 
+                        <lb n="3" />z ktoregoż był <persName ref="#David">Dawid</persName>, ktorzy by 
                             <choice>
                                 <orig>niebyli</orig>
                                 <reg>nie byli</reg>
                             </choice> w
-                        <lb />małżeństwie jeszcze, do <placeName ref="#Jerusalem">Jerusalem</placeName> 
+                        <lb n="4" />małżeństwie jeszcze, do <placeName ref="#Jerusalem">Jerusalem</placeName> 
                             <choice>
                                 <orig></orig>
                                 <reg><add>do kościoła</add></reg>
                             </choice>
-                        <lb /> by przyszli, każdy niosąc laskę w ręce.
-                        <lb />Tedy z tego pokolenia wiele mężczyzn i młodych
-                        <lb />i starych przyszło, każdy nosząc 
+                        <lb n="5" /> by przyszli, każdy niosąc laskę w ręce.
+                        <lb n="6" />Tedy z tego pokolenia wiele mężczyzn i młodych
+                        <lb n="7" />i starych przyszło, każdy nosząc 
                             <choice>
                                 <orig>laską</orig>
                                 <reg>laskę</reg>
                             </choice> w ręku
-                        <lb />podług przykazania i podali je biskupowi,
-                        <lb />a on wziął i naznamienował każdego
-                        <lb />i postawił podle ołtarza. Kiedy za
-                        <lb />wielkiem nabożeństwem czekali cuda
-                        <lb />bożego, aże do trzeciego dnia tamo będąc,
-                        <lb />
+                        <lb n="8" />podług przykazania i podali je biskupowi,
+                        <lb n="9" />a on wziął i naznamienował każdego
+                        <lb n="10" />i postawił podle ołtarza. Kiedy za
+                        <lb n="11" />wielkiem nabożeństwem czekali cuda
+                        <lb n="12" />bożego, aże do trzeciego dnia tamo będąc,
+                        <lb n="13" />
                             <choice>
                                 <orig>nieuźrzeli</orig>
                                 <reg>nie uźrzeli</reg>
                             </choice> niejednego dziwu Tako potym
-                        <lb />dali sie 
+                        <lb n="14" />dali sie 
                             <choice>
                                 <orig>namodlitwy</orig>
                                 <reg>na modlitwy</reg>
                             </choice>, <persName ref="#God" type="religion">Boga</persName> wszechmogącego
-                        <lb />nabożnymi modlitwami prosząc, by
-                        <lb />im ukazał swe cudo, jako obiecał. Tedy
-                        <lb />opięć głos boski 
+                        <lb n="15" />nabożnymi modlitwami prosząc, by
+                        <lb n="16" />im ukazał swe cudo, jako obiecał. Tedy
+                        <lb n="17" />opięć głos boski 
                             <choice>
                                 <orig>wkościele</orig>
                                 <reg>w kościele</reg>
                             </choice>usłyszeli
-                        <lb />rzekący, iże tu jeszcze 
+                        <lb n="18" />rzekący, iże tu jeszcze 
                             <choice>
                                 <orig>nieprzy</orig>
                                 <reg>nie przyszedł</reg>
                             </choice>
-                        <lb />ani swej laski nie przyniosł
-                        <lb />
+                        <lb n="19" />ani swej laski nie przyniosł
+                        <lb n="20" />
                             <choice>
                                 <orig>tu</orig>
                                 <reg>i tu</reg>
@@ -361,30 +362,30 @@
                                 <orig>zpokolenia</orig>
                                 <reg>z pokolenia</reg>
                             </choice>
-                        <lb /><persName ref="#Juda">Juda</persName> na imię <persName ref="#Joseph">Jozef</persName>. Czcienie
-                        <lb />o <persName ref="#Joseph">Jozefowej</persName> chwale, oblubieńca
-                        <lb /><persName ref="#Mary">
+                        <lb n="21" /><persName ref="#Juda">Juda</persName> na imię <persName ref="#Joseph">Jozef</persName>. Czcienie
+                        <lb n="22" />o <persName ref="#Joseph">Jozefowej</persName> chwale, oblubieńca
+                        <lb n="23" /><persName ref="#Mary">
                             <choice>
                                 <orig>Marye</orig>
                                 <reg>Maryje</reg>
                             </choice></persName> i o jego czesności
-                        <lb />Ten <persName ref="#Joseph">Jozef</persName> był syn 
+                        <lb n="24" />Ten <persName ref="#Joseph">Jozef</persName> był syn 
                             <choice>
                                 <orig></orig>
                                 <reg><add>mieścic</add></reg>
                             </choice> betleemski,
-                        <lb />syn <persName ref="#Jacob">Jakubow</persName>, czestnych obyczajow i świętego
-                        <lb />żywota 
+                        <lb n="25" />syn <persName ref="#Jacob">Jakubow</persName>, czestnych obyczajow i świętego
+                        <lb n="26" />żywota 
                             <choice>
                                 <orig></orig>
                                 <reg><add>a</add></reg>
                             </choice> mądrością się nad inne świecił,
-                        <lb />swą łaską wszytki 
+                        <lb n="27" />swą łaską wszytki 
                             <choice>
                                 <orig>przychodził</orig>
                                 <reg>przechodził</reg>
                             </choice>, a był
-                        <lb />brat rodzony <persName ref="#Cleofas">Kleofie</persName>, jen 
+                        <lb n="28" />brat rodzony <persName ref="#Cleofas">Kleofie</persName>, jen 
                             <choice>
                                 <orig>pośmierci</orig>
                                 <reg>po śmierci</reg>
@@ -392,55 +393,55 @@
                     </p>
                     <pb xml:id="p31" n="31" facs="#pg31" />
                     <p>
-                        <lb /><persName ref="#Ioachim">Jachymowie</persName> <persName ref="#Anna">Annę</persName>, siostrę 
+                        <lb n="1" /><persName ref="#Ioachim">Jachymowie</persName> <persName ref="#Anna">Annę</persName>, siostrę 
                             <choice>
                                 <orig></orig>
                                 <reg><add>gd</add></reg>
                             </choice> <persName ref="#Ismeria">Ismeryi</persName>,
-                        <lb />pojął sobie żonę. Ten był wierny wsze prawdy
-                        <lb />naśladowca i czystoty cielestne 
+                        <lb n="2" />pojął sobie żonę. Ten był wierny wsze prawdy
+                        <lb n="3" />naśladowca i czystoty cielestne 
                             <choice>
                                 <orig>niewinnik</orig>
                                 <reg>miłośnik</reg>
                             </choice>,
-                        <lb />niewinność swego serca chował, <persName ref="#God" type="religion">Bogu</persName> i
-                        <lb />ludziom był mił, bo był w słowie prawdziwy,
-                        <lb />wierny i przezpieczny, 
+                        <lb n="4" />niewinność swego serca chował, <persName ref="#God" type="religion">Bogu</persName> i
+                        <lb n="5" />ludziom był mił, bo był w słowie prawdziwy,
+                        <lb n="6" />wierny i przezpieczny, 
                             <choice>
                                 <orig></orig>
                                 <reg><add>bo był</add></reg>
                             </choice> prosty, dobry,
-                        <lb />śmierny, cichy, pokorny i wielmi
-                        <lb />roztropny. Z każdem się łaskawie umowił,
-                        <lb />każdemu łaskę ukazał, ciesielstwem
-                        <lb />się barzo mądrze i roztropnie obchodził,
-                        <lb />bo zawżdy dobre dostatki miał a
-                        <lb />
+                        <lb n="7" />śmierny, cichy, pokorny i wielmi
+                        <lb n="8" />roztropny. Z każdem się łaskawie umowił,
+                        <lb n="9" />każdemu łaskę ukazał, ciesielstwem
+                        <lb n="10" />się barzo mądrze i roztropnie obchodził,
+                        <lb n="11" />bo zawżdy dobre dostatki miał a
+                        <lb n="12" />
                         <choice>
                             <orig>ztego</orig>
                             <reg>z tego</reg>
                         </choice> pomagał ubogiem, niemocnym,
-                        <lb />pielgrzymom i każdemu, ktokoli 
+                        <lb n="13" />pielgrzymom i każdemu, ktokoli 
                             <persName ref="#God" type="religion"><choice>
                                 <orig>przebog</orig>
                                 <reg>prze Bog</reg>
                             </choice></persName>
-                        <lb />prosił, bo był pełen gorącego miłosierdzia
-                        <lb />Często <persName ref="#God" type="religion">Bogu</persName> wszechmogącemu służył
-                        <lb />swemi nabożnymi modlitwami, postem, czucim
-                        <lb />udręczał swoje ciało, kaźń Mojżeszowa
-                        <lb />zakonu rad chował, wszytką myślą, sercem
-                        <lb />i duszą miłował Boga wszechmogącego a ku
-                        <lb />swemu bliźniemu zawdy miał miłosierdzie.
-                        <lb />Też był barzo czystego ciała, bo 
+                        <lb n="14" />prosił, bo był pełen gorącego miłosierdzia
+                        <lb n="15" />Często <persName ref="#God" type="religion">Bogu</persName> wszechmogącemu służył
+                        <lb n="16" />swemi nabożnymi modlitwami, postem, czucim
+                        <lb n="17" />udręczał swoje ciało, kaźń Mojżeszowa
+                        <lb n="18" />zakonu rad chował, wszytką myślą, sercem
+                        <lb n="19" />i duszą miłował Boga wszechmogącego a ku
+                        <lb n="20" />swemu bliźniemu zawdy miał miłosierdzie.
+                        <lb n="21" />Też był barzo czystego ciała, bo 
                             <choice>
                                 <orig>wszystka</orig>
                                 <reg>wszystkę</reg>
                             </choice>
-                        <lb />rozkosz cielestną od siebie był otrącił
-                        <lb />i miłował czystotę; a przeto był
-                        <lb />czysty tako z przyrodzenia swego jako
-                        <lb />
+                        <lb n="22" />rozkosz cielestną od siebie był otrącił
+                        <lb n="23" />i miłował czystotę; a przeto był
+                        <lb n="24" />czysty tako z przyrodzenia swego jako
+                        <lb n="25" />
                             <choice>
                                 <orig></orig>
                                 <reg><add>z</add></reg>
@@ -449,135 +450,135 @@
                                 <orig>czysty</orig>
                                 <reg>czystygo</reg>
                             </choice> natchnienim
-                        <lb />Ducha Świętego, był czysty z swego ciała,
-                        <lb />czysty na duszy, czysty w cnych
+                        <lb n="26" />Ducha Świętego, był czysty z swego ciała,
+                        <lb n="27" />czysty na duszy, czysty w cnych
                     </p>
                     <pb xml:id="p32" n="32" facs="#pg32" />
                     <p>
-                        <lb />a w dostojnych obyczajoch Człowieka
-                        <lb />nijednego 
+                        <lb n="1" />a w dostojnych obyczajoch Człowieka
+                        <lb n="2" />nijednego 
                             <choice>
                                 <orig>niepotępił</orig>
                                 <reg>nie potępił</reg>
                             </choice> ani potępiał
-                        <lb />ani, ubogiego i bogatego jednako miłował
-                        <lb />Też 
+                        <lb n="3" />ani, ubogiego i bogatego jednako miłował
+                        <lb n="4" />Też 
                             <choice>
                                 <orig>niebyl</orig>
                                 <reg>nie był</reg>
                             </choice> żądny ani skąpy
-                        <lb />przednie, ale szczodry, miłościwy, wiesioły
-                        <lb />i <persName ref="#God" type="religion">Bogu</persName> miły. Czcienie o tem, jako
-                        <lb /><persName ref="#Joseph">Jozef</persName> przyszedł do kościoła a kako
-                        <lb />jego laska puściła odrośli i skwitła
-                        <lb />a Duch Święty 
+                        <lb n="5" />przednie, ale szczodry, miłościwy, wiesioły
+                        <lb n="6" />i <persName ref="#God" type="religion">Bogu</persName> miły. Czcienie o tem, jako
+                        <lb n="7" /><persName ref="#Joseph">Jozef</persName> przyszedł do kościoła a kako
+                        <lb n="8" />jego laska puściła odrośli i skwitła
+                        <lb n="9" />a Duch Święty 
                             <choice>
                                 <orig>naniej</orig>
                                 <reg>na niej</reg>
                             </choice> siedział
-                        <lb />Słysząc popowie ten głos i pewno
-                        <lb />zwiedziawszy, iże <persName ref="#Joseph">Jozef</persName>, sługa boży,
-                        <lb />dostojen tej dziewice, natychmiast posłali
-                        <lb />do Betlejem, aby też 
+                        <lb n="10" />Słysząc popowie ten głos i pewno
+                        <lb n="11" />zwiedziawszy, iże <persName ref="#Joseph">Jozef</persName>, sługa boży,
+                        <lb n="12" />dostojen tej dziewice, natychmiast posłali
+                        <lb n="13" />do Betlejem, aby też 
                             <choice>
                                 <orig></orig>
                                 <reg><add>z</add></reg>
                             </choice> swą laską
-                        <lb />przyszedł do kościoła. A <persName ref="#Joseph">Jozef</persName> jako
-                        <lb />prawdziwy człowiek natychmiast był
-                        <lb />posłuszen a przyszed do <placeName ref="#Jerusalem">Jerusalem</placeName> i wszedł
-                        <lb />
+                        <lb n="14" />przyszedł do kościoła. A <persName ref="#Joseph">Jozef</persName> jako
+                        <lb n="15" />prawdziwy człowiek natychmiast był
+                        <lb n="16" />posłuszen a przyszed do <placeName ref="#Jerusalem">Jerusalem</placeName> i wszedł
+                        <lb n="17" />
                             <choice>
                                 <orig>wkościoł</orig>
                                 <reg>w kościoł</reg>
                             </choice>, nosząc swą laskę w ręku i podał
-                        <lb />ją wyszemu biskupowi. Jedno ją wziął,
-                        <lb />aż natychmiast ona ista sucha laska puściła
-                        <lb />odrośli i kwitła A jeszcze 
+                        <lb n="18" />ją wyszemu biskupowi. Jedno ją wziął,
+                        <lb n="19" />aż natychmiast ona ista sucha laska puściła
+                        <lb n="20" />odrośli i kwitła A jeszcze 
                             <choice>
                                 <orig>wręku</orig>
                                 <reg>w ręku</reg>
                             </choice> u
-                        <lb />biskupa laska była, a Duch Święty 
+                        <lb n="21" />biskupa laska była, a Duch Święty 
                             <choice>
                                 <orig>stąpił</orig>
                                 <reg>zstąpiw</reg>
                             </choice>
-                        <lb />i siedział na niej 
+                        <lb n="22" />i siedział na niej 
                             <choice>
                                 <orig>wgołębiczym</orig>
                                 <reg>w gołębiczym</reg>
                             </choice> wyobrażeniu,
-                        <lb />ktoreż widzieli i poświaczszali
-                        <lb />wielikie tłuszcze luda i dziwowali
-                        <lb />sie temu nasilnie, a padnąwszy wszyscy na
-                        <lb />swe kolana chwalili <persName ref="#God" type="religion">Boga</persName> wszechmogącego
-                        <lb />rzekąc, iże ten jest prawdziwy
+                        <lb n="23" />ktoreż widzieli i poświaczszali
+                        <lb n="24" />wielikie tłuszcze luda i dziwowali
+                        <lb n="25" />sie temu nasilnie, a padnąwszy wszyscy na
+                        <lb n="26" />swe kolana chwalili <persName ref="#God" type="religion">Boga</persName> wszechmogącego
+                        <lb n="27" />rzekąc, iże ten jest prawdziwy
                     </p>
                     <pb xml:id="p33" n="33" facs="#pg33" />
                     <p>
-                        <lb />a dostojny, bo jest dziwnym znamieniem
-                        <lb /><persName ref="#God" type="religion">
+                        <lb n="1" />a dostojny, bo jest dziwnym znamieniem
+                        <lb n="2" /><persName ref="#God" type="religion">
                             <choice>
                                 <orig>odboga</orig>
                                 <reg>od Boga</reg>
                             </choice></persName> wybrany, bo wierny a
-                        <lb />prawdziwy sługa boży, 
+                        <lb n="3" />prawdziwy sługa boży, 
                             <choice>
                                 <orig>tego dla</orig>
                                 <reg>tegodla</reg>
                             </choice> jest
-                        <lb />dostojen, aby jemu dana ta błogosławiona
-                        <lb />dziewica <persName ref="#Mary">Maryja</persName>, ktoraż krolem anjelskiem
-                        <lb />
+                        <lb n="4" />dostojen, aby jemu dana ta błogosławiona
+                        <lb n="5" />dziewica <persName ref="#Mary">Maryja</persName>, ktoraż krolem anjelskiem
+                        <lb n="6" />
                             <choice>
                                 <orig>nadewszystkie</orig>
                                 <reg>nade wszystkie</reg>
                             </choice> insze wybrana i
-                        <lb />zasłużyła <persName ref="#God" type="religion">
+                        <lb n="7" />zasłużyła <persName ref="#God" type="religion">
                             <choice>
                                 <orig>uboga</orig>
                                 <reg>u Boga</reg>
                             </choice>
                         </persName>, aby w to dostojne
-                        <lb />małżeństwo świętemu temu człowieku była
-                        <lb />dana, bo ją <persName ref="#God" type="religion">Bog</persName> 
+                        <lb n="8" />małżeństwo świętemu temu człowieku była
+                        <lb n="9" />dana, bo ją <persName ref="#God" type="religion">Bog</persName> 
                             <choice>
                                 <orig>uczynił</orig>
                                 <reg>ućcił</reg>
                             </choice> szwą chwałą, cnotą
-                        <lb />i wszytkim dostojeństwem. Czcienie
-                        <lb />o tem, jako księża żydowska kazali
-                        <lb />Jozefowi pojąć za żonę albo oblubieńcę
-                        <lb /><persName ref="#Mary">
+                        <lb n="10" />i wszytkim dostojeństwem. Czcienie
+                        <lb n="11" />o tem, jako księża żydowska kazali
+                        <lb n="12" />Jozefowi pojąć za żonę albo oblubieńcę
+                        <lb n="13" /><persName ref="#Mary">
                             <choice>
                                 <orig>Marya</orig>
                                 <reg>Maryją</reg>
                             </choice>
                         </persName>
-                        <lb />Księża biskupowie i popowie żydowszczy
-                        <lb />kazali <persName ref="#Joseph">Jozefowi</persName>, aby <persName ref="#Mary">
+                        <lb n="14" />Księża biskupowie i popowie żydowszczy
+                        <lb n="15" />kazali <persName ref="#Joseph">Jozefowi</persName>, aby <persName ref="#Mary">
                             <choice>
                                 <orig>Marya</orig>
                                 <reg>Maryję</reg>
                             </choice>
                         </persName> pojął sobie
-                        <lb />oblubienicę i rzekli jemu: „<persName ref="#Joseph">Jozefie</persName>, mężu
-                        <lb />naświętszy a <persName ref="#God" type="religion">Bogu</persName> miły, ktoryś dostojen
-                        <lb />małżeństwa wybranej dziewice, bo
-                        <lb />cię <persName ref="#God" type="religion">Bog</persName> przez wielikie cudo powyszył
-                        <lb />i wybrał oblubienica dziewicy
-                        <lb /><persName ref="#Mary">Maryje</persName>, 
+                        <lb n="16" />oblubienicę i rzekli jemu: „<persName ref="#Joseph">Jozefie</persName>, mężu
+                        <lb n="17" />naświętszy a <persName ref="#God" type="religion">Bogu</persName> miły, ktoryś dostojen
+                        <lb n="18" />małżeństwa wybranej dziewice, bo
+                        <lb n="19" />cię <persName ref="#God" type="religion">Bog</persName> przez wielikie cudo powyszył
+                        <lb n="20" />i wybrał oblubienica dziewicy
+                        <lb n="21" /><persName ref="#Mary">Maryje</persName>, 
                             <choice>
                                 <orig>tego dla</orig>
                                 <reg>tegodla</reg>
                             </choice> oddawamy tobie tę
-                        <lb />dostojną dziewic[tw]ę a każemy tobie,
-                        <lb />by ją wziął za żonę”. Odpowiedział jest
-                        <lb />im <persName ref="#Joseph">Jozef</persName> i rzekł: „Jaciem umyślił nigdy
-                        <lb />oblubienice albo żony pojmować, bociem
-                        <lb />wszytkę miłość żeńską juże opuścił,
-                        <lb />wszakoż 
+                        <lb n="22" />dostojną dziewic[tw]ę a każemy tobie,
+                        <lb n="23" />by ją wziął za żonę”. Odpowiedział jest
+                        <lb n="24" />im <persName ref="#Joseph">Jozef</persName> i rzekł: „Jaciem umyślił nigdy
+                        <lb n="25" />oblubienice albo żony pojmować, bociem
+                        <lb n="26" />wszytkę miłość żeńską juże opuścił,
+                        <lb n="27" />wszakoż 
                             <choice>
                                 <orig>acz bych</orig>
                                 <reg>aczbych</reg>
@@ -589,21 +590,21 @@
                     </p>
                     <pb xml:id="p34" n="34" facs="#pg34" />
                     <p>
-                        <lb />chciał żonę pojąć, wszakoż nie jest
-                        <lb />podobno, 
+                        <lb n="1" />chciał żonę pojąć, wszakoż nie jest
+                        <lb n="2" />podobno, 
                             <choice>
                                 <orig>a by</orig>
                                 <reg>abych</reg>
                             </choice> tako rozkoszne, tako
-                        <lb />wielebne, tako święte dziewicy był oblubion.
-                        <lb />Ja nędzny 
+                        <lb n="3" />wielebne, tako święte dziewicy był oblubion.
+                        <lb n="4" />Ja nędzny 
                             <choice>
                                 <orig></orig>
                                 <reg><add>i</add></reg>
                             </choice> wszego luda niszy nie
-                        <lb />jestem dostojen poruszyć tako świętego
-                        <lb />dziewictwa, bowim ja już przyszedł w
-                        <lb />stare lata 
+                        <lb n="5" />jestem dostojen poruszyć tako świętego
+                        <lb n="6" />dziewictwa, bowim ja już przyszedł w
+                        <lb n="7" />stare lata 
                             <choice>
                                 <orig>niejest</orig>
                                 <reg>a nie jest</reg>
@@ -612,137 +613,137 @@
                                 <orig>iż bych</orig>
                                 <reg>iżbych</reg>
                             </choice> tako
-                        <lb />młodą i tako dostojną dziwkę pojął”.
-                        <lb />O modlitwie <persName ref="#Joseph">Jozefowej</persName>, kiedy ji
-                        <lb />przymęcano pojąć dziewicę <persName ref="#Mary">
+                        <lb n="8" />młodą i tako dostojną dziwkę pojął”.
+                        <lb n="9" />O modlitwie <persName ref="#Joseph">Jozefowej</persName>, kiedy ji
+                        <lb n="10" />przymęcano pojąć dziewicę <persName ref="#Mary">
                             <choice>
                                 <orig>Marya</orig>
                                 <reg>Maryję</reg>
                             </choice>
                         </persName>
-                        <lb />A jako biskupowie i wszytek lud
-                        <lb />poczęli ji przymęcać, by ją pojął,
-                        <lb /><persName ref="#Joseph">Jozef</persName> dał się na modlitwę i począł <persName ref="#God" type="religion">Boga</persName>
-                        <lb />wszechmogącego z gorącymi łzami prosić
-                        <lb />rzekąc: „Gospodnie wszechmogący,
-                        <lb />stworzycielu nieba i ziemie a opiekalniku
-                        <lb />rodzaju człowieczego! Tyś stworzył pirwego
-                        <lb />człowieka 
+                        <lb n="11" />A jako biskupowie i wszytek lud
+                        <lb n="12" />poczęli ji przymęcać, by ją pojął,
+                        <lb n="13" /><persName ref="#Joseph">Jozef</persName> dał się na modlitwę i począł <persName ref="#God" type="religion">Boga</persName>
+                        <lb n="14" />wszechmogącego z gorącymi łzami prosić
+                        <lb n="15" />rzekąc: „Gospodnie wszechmogący,
+                        <lb n="16" />stworzycielu nieba i ziemie a opiekalniku
+                        <lb n="17" />rodzaju człowieczego! Tyś stworzył pirwego
+                        <lb n="18" />człowieka 
                             <choice>
                                 <orig>sgiłowate</orig>
                                 <reg>s jiłowate</reg>
                             </choice> ziemie i posadziłeś
-                        <lb />ji w raju twe słodkości, 
+                        <lb n="19" />ji w raju twe słodkości, 
                             <choice>
                                 <orig></orig>
                                 <reg><add>z</add></reg>
                             </choice> żebra albo
-                        <lb />
+                        <lb n="20" />
                             <choice>
                                 <orig>zkości</orig>
                                 <reg>z kości</reg>
                             </choice> stworzyłeś niewiastę, dawszy ją
-                        <lb />jemu i przykazałeś, 
+                        <lb n="21" />jemu i przykazałeś, 
                             <choice>
                                 <orig>a by szę</orig>
                                 <reg>abyszę</reg>
                             </choice> mnożyli od
-                        <lb />siebie rodzaj człowieczy, ale by się
-                        <lb />schodzili przez gorącości a byszę mieli
-                        <lb />płod 
+                        <lb n="22" />siebie rodzaj człowieczy, ale by się
+                        <lb n="23" />schodzili przez gorącości a byszę mieli
+                        <lb n="24" />płod 
                             <choice>
                                 <orig>wniewiństwie</orig>
                                 <reg>w niewiństwie</reg>
                             </choice> od grzecha; ale to
-                        <lb />dostojeństwo pirwa nasza rodzina swym
-                        <lb />przestąpienim stracili i przywiedli nas,
-                        <lb />swe dzieci, ku grzechu. A przeto ja
+                        <lb n="25" />dostojeństwo pirwa nasza rodzina swym
+                        <lb n="26" />przestąpienim stracili i przywiedli nas,
+                        <lb n="27" />swe dzieci, ku grzechu. A przeto ja
                     </p>
                     <pb xml:id="p35" n="35" facs="#pg35" />
                     <p>
-                        <lb />chciałem sie tego grzecha chować
-                        <lb />niewinien, myśliłem już nigdy cielestną
-                        <lb />nieczystotą ciała 
+                        <lb n="1" />chciałem sie tego grzecha chować
+                        <lb n="2" />niewinien, myśliłem już nigdy cielestną
+                        <lb n="3" />nieczystotą ciała 
                             <choice>
                                 <orig>niepokalać</orig>
                                 <reg>nie pokalać</reg>
                             </choice>, alem je
-                        <lb />czysto chciał chować prze Cie duszę
-                        <lb />moję ślubił, stworzycielu moj, jen jeś
-                        <lb />miłośnik czystoty. 
+                        <lb n="4" />czysto chciał chować prze Cie duszę
+                        <lb n="5" />moję ślubił, stworzycielu moj, jen jeś
+                        <lb n="6" />miłośnik czystoty. 
                             <choice>
                                 <orig>Tego dla</orig>
                                 <reg>Tegodla</reg>
                             </choice> Ciebie, miły
-                        <lb />Gospodnie, proszę, aby mię raczył 
+                        <lb n="7" />Gospodnie, proszę, aby mię raczył 
                             <choice>
                                 <orig>zbawić</orig>
                                 <reg>zabawić</reg>
                             </choice>,
-                        <lb />abych nie przymęcon tej świętej dziewicy
-                        <lb />poruszyć, ktora jest źwierciadło wszej
-                        <lb />czystoty i przybytek wiernego bostwa”.
-                        <lb />Czcienie o tem, jako anjoł <persName ref="#Joseph">Jozefa</persName>
-                        <lb />prosił, by sobie pojął <persName ref="#Mary">
+                        <lb n="8" />abych nie przymęcon tej świętej dziewicy
+                        <lb n="9" />poruszyć, ktora jest źwierciadło wszej
+                        <lb n="10" />czystoty i przybytek wiernego bostwa”.
+                        <lb n="11" />Czcienie o tem, jako anjoł <persName ref="#Joseph">Jozefa</persName>
+                        <lb n="12" />prosił, by sobie pojął <persName ref="#Mary">
                             <choice>
                                 <orig>Marya</orig>
                                 <reg>Maryją</reg>
                             </choice>
                         </persName> oblubieńcę
-                        <lb />sobie a by się nią opiekał
-                        <lb />
+                        <lb n="13" />sobie a by się nią opiekał
+                        <lb n="14" />
                             <choice>
                                 <orig>Kiedy</orig>
                                 <reg>Tedy</reg>
                             </choice> się anjoł jemu pokazał i począł
-                        <lb />ji wiesielić rzekąc: „O <persName ref="#Joseph">Jozefie</persName>,
-                        <lb />sługo boży! O tę swą przytczą nie
-                        <lb />męci się, ale się wiesiel a ślubi
-                        <lb />sobie <persName ref="#Mary">
+                        <lb n="15" />ji wiesielić rzekąc: „O <persName ref="#Joseph">Jozefie</persName>,
+                        <lb n="16" />sługo boży! O tę swą przytczą nie
+                        <lb n="17" />męci się, ale się wiesiel a ślubi
+                        <lb n="18" />sobie <persName ref="#Mary">
                             <choice>
                                 <orig>Marya</orig>
                                 <reg>Maryją</reg>
                             </choice></persName> oblubienicę, boć to jest
-                        <lb />podług twego obiecania wierna miłośnica
-                        <lb />dziewictwa i świca świętej czystoty a
-                        <lb />podług twej woli ona żąda czysta dziewica
-                        <lb />ostać. Bo przez tę dziewicę anjelskie
-                        <lb />ma być naprawienie a też przez
-                        <lb />tę dziewicę krolestwo żydowskie ma być
-                        <lb />poprawiono, przez tę lud żydowski będzie
-                        <lb />powyszon, przez tę będzie wszystek
-                        <lb />świat zbawion, przez tę krolestwo niebieskie
+                        <lb n="19" />podług twego obiecania wierna miłośnica
+                        <lb n="20" />dziewictwa i świca świętej czystoty a
+                        <lb n="21" />podług twej woli ona żąda czysta dziewica
+                        <lb n="22" />ostać. Bo przez tę dziewicę anjelskie
+                        <lb n="23" />ma być naprawienie a też przez
+                        <lb n="24" />tę dziewicę krolestwo żydowskie ma być
+                        <lb n="25" />poprawiono, przez tę lud żydowski będzie
+                        <lb n="26" />powyszon, przez tę będzie wszystek
+                        <lb n="27" />świat zbawion, przez tę krolestwo niebieskie
                     </p>
                     <pb xml:id="p36" n="36" facs="#pg36" />
                     <p>
-                        <lb />będzie powyszono, przez tę będzie moc
-                        <lb />piekielna rozbita. 
+                        <lb n="1" />będzie powyszono, przez tę będzie moc
+                        <lb n="2" />piekielna rozbita. 
                             <choice>
                                 <orig>Tego dla</orig>
                                 <reg>Tegodla</reg>
                             </choice> ślubi ją sobie
-                        <lb />i przyłęczy oblubieńcę. Wszakoż ją
-                        <lb />zawżdy 
+                        <lb n="3" />i przyłęczy oblubieńcę. Wszakoż ją
+                        <lb n="4" />zawżdy 
                             <choice>
                                 <orig>wjej</orig>
                                 <reg>w jej</reg>
                             </choice> dostojeństwie będziesz chować,
-                        <lb />omyślając jej potrzeby a służąc
-                        <lb />jako swej krolownie”. O modlitwie
-                        <lb />błogosławionej dziewice <persName ref="#Mary">
+                        <lb n="5" />omyślając jej potrzeby a służąc
+                        <lb n="6" />jako swej krolownie”. O modlitwie
+                        <lb n="7" />błogosławionej dziewice <persName ref="#Mary">
                             <choice>
                                 <orig>Marie</orig>
                                 <reg>Maryję</reg>
                             </choice></persName>, kiedy
-                        <lb />jej kazano <persName ref="#Joseph">Jozefa</persName> pojąć oblubieńcem
-                        <lb />Żydowie kiedy poczęli błogosławioną dziewicę
-                        <lb />przymęcać, 
+                        <lb n="8" />jej kazano <persName ref="#Joseph">Jozefa</persName> pojąć oblubieńcem
+                        <lb n="9" />Żydowie kiedy poczęli błogosławioną dziewicę
+                        <lb n="10" />przymęcać, 
                             <choice>
                                 <orig>a by</orig>
                                 <reg>aby</reg>
                             </choice> <persName ref="#Joseph">Jozefa</persName>, sługę bożego, oblubiła
-                        <lb />sobie mężem, uciekła sie ku <persName ref="#God" type="religion">Bogu</persName> wszechmogącemu
-                        <lb />
+                        <lb n="11" />sobie mężem, uciekła sie ku <persName ref="#God" type="religion">Bogu</persName> wszechmogącemu
+                        <lb n="12" />
                             <choice>
                                 <orig>zgorącymi</orig>
                                 <reg>z gorącymi</reg>
@@ -751,26 +752,26 @@
                                 <orig>zciężkim</orig>
                                 <reg>z ciężkim</reg>
                             </choice>
-                        <lb />wzdychanim serca rzekąc: „O krolu niebieski,
-                        <lb />o wierny obeźrzycielu każdego czystego serca, o
-                        <lb />miłośniku czystych myśli! Ty wiesz, iżem ja nigdy
-                        <lb />mego serca nie pokalała ani mego ciała ani ducha,
-                        <lb />zawżdym moj duch czysto chowała a nad Cie inego
-                        <lb />nie żądała ani miłowała, a Tobiem moj kwiat mej
-                        <lb />czystoty ofierowała, a Tobie samemu moje
-                        <lb />dziewictwo schowała. Ale dzisia, moj namilejszy
-                        <lb />Gospodnie, przymęcają mie, abych
-                        <lb />ten ślub i tę obietnicę przestąpiła, bo
-                        <lb />mie już oddalają Twej rozkosznej miłości,
-                        <lb />iże już przymęcają mię i mącą inego
-                        <lb />oblubienica ślubić i przyłęczyć sie
-                        <lb />mężowi obcemu. Jedyna nadziejo zbawienia
-                        <lb />mego, 
+                        <lb n="13" />wzdychanim serca rzekąc: „O krolu niebieski,
+                        <lb n="14" />o wierny obeźrzycielu każdego czystego serca, o
+                        <lb n="15" />miłośniku czystych myśli! Ty wiesz, iżem ja nigdy
+                        <lb n="16" />mego serca nie pokalała ani mego ciała ani ducha,
+                        <lb n="17" />zawżdym moj duch czysto chowała a nad Cie inego
+                        <lb n="18" />nie żądała ani miłowała, a Tobiem moj kwiat mej
+                        <lb n="19" />czystoty ofierowała, a Tobie samemu moje
+                        <lb n="20" />dziewictwo schowała. Ale dzisia, moj namilejszy
+                        <lb n="21" />Gospodnie, przymęcają mie, abych
+                        <lb n="22" />ten ślub i tę obietnicę przestąpiła, bo
+                        <lb n="23" />mie już oddalają Twej rozkosznej miłości,
+                        <lb n="24" />iże już przymęcają mię i mącą inego
+                        <lb n="25" />oblubienica ślubić i przyłęczyć sie
+                        <lb n="26" />mężowi obcemu. Jedyna nadziejo zbawienia
+                        <lb n="27" />mego, 
                             <choice>
                                 <orig>oćczi</orig>
                                 <reg>oćcze i</reg>
                             </choice> stworzycielu moj,
-                        <lb />proszę Ciebie, 
+                        <lb n="28" />proszę Ciebie, 
                             <choice>
                                 <orig>a by nieprzepuścił</orig>
                                 <reg>aby nie przepuściłł</reg>
@@ -778,51 +779,51 @@
                     </p>
                     <pb xml:id="p37" n="37" facs="#pg37" />
                     <p>
-                        <lb />ciała mego i dziewictwa poruszyć, bo jeś Ty
-                        <lb />moj oblubieniec, mąż, towarzysz i przybytku
-                        <lb />serca mego osobny obraniec. Ciebiem miłowała,
-                        <lb />Tobiem sie radowała, Ciebiem zawżdy
-                        <lb />żądała, nad Cie namilszy moj oblubieńca nie
-                        <lb />szukała. Tyś sam oblubieniec moj, Ty jeś
-                        <lb />sam mąż moj, Ty jeś sam naświętszy,
-                        <lb />Ty jeś sam umowny i 
+                        <lb n="1" />ciała mego i dziewictwa poruszyć, bo jeś Ty
+                        <lb n="2" />moj oblubieniec, mąż, towarzysz i przybytku
+                        <lb n="3" />serca mego osobny obraniec. Ciebiem miłowała,
+                        <lb n="4" />Tobiem sie radowała, Ciebiem zawżdy
+                        <lb n="5" />żądała, nad Cie namilszy moj oblubieńca nie
+                        <lb n="6" />szukała. Tyś sam oblubieniec moj, Ty jeś
+                        <lb n="7" />sam mąż moj, Ty jeś sam naświętszy,
+                        <lb n="8" />Ty jeś sam umowny i 
                             <choice>
                                 <orig>nade wszystki</orig>
                                 <reg>nade szwytki</reg>
                             </choice> wybrany,
-                        <lb />Tyś wielebniejszy, nade wszystki ine
-                        <lb />krasszy. Ty jeś moj tajemnik, Ty jeś
-                        <lb />moj zbawiciel, Ty jeś sam moj miły
-                        <lb />i miłośnik, Ty jeś moj 
+                        <lb n="9" />Tyś wielebniejszy, nade wszystki ine
+                        <lb n="10" />krasszy. Ty jeś moj tajemnik, Ty jeś
+                        <lb n="11" />moj zbawiciel, Ty jeś sam moj miły
+                        <lb n="12" />i miłośnik, Ty jeś moj 
                             <choice>
                                 <orig>przyjacili</orig>
                                 <reg>przyjacil i</reg>
                             </choice>
-                        <lb />towarzysz 
+                        <lb n="13" />towarzysz 
                             <choice>
                                 <orig>Tegodla</orig>
                                 <reg>Tego dla</reg>
                             </choice>, moj namilejszy,
-                        <lb />dzisia Ciebie proszę, miłościwie
-                        <lb />wybaw mie 
+                        <lb n="14" />dzisia Ciebie proszę, miłościwie
+                        <lb n="15" />wybaw mie 
                             <choice>
                                 <orig>ztego</orig>
                                 <reg>z tego</reg>
                             </choice> wielikiego smętku”.
-                        <lb />Czcienie o tem, jako anjoł pokazaw sie
-                        <lb />bogosławionej i wielebnej dziewicy
-                        <lb /><persName ref="#Mary">
+                        <lb n="16" />Czcienie o tem, jako anjoł pokazaw sie
+                        <lb n="17" />bogosławionej i wielebnej dziewicy
+                        <lb n="18" /><persName ref="#Mary">
                             <choice>
                                 <orig>Marjej</orig>
                                 <reg>Maryjej</reg>
                             </choice></persName>, podpomaga ją i wiesieli
-                        <lb />ją 
+                        <lb n="19" />ją 
                             <choice>
                                 <orig>zjej</orig>
                                 <reg>z jej</reg>
                             </choice> smętku, iże przymęcona
-                        <lb /><persName ref="#Joseph">Jozefa</persName> pojąć
-                        <lb /><persName ref="#Mary">
+                        <lb n="20" /><persName ref="#Joseph">Jozefa</persName> pojąć
+                        <lb n="21" /><persName ref="#Mary">
                             <choice>
                                 <orig>Marya</orig>
                                 <reg>Maryja</reg>
@@ -831,157 +832,157 @@
                                 <orig>namodlitwie</orig>
                                 <reg>na modlitwie</reg>
                             </choice>,
-                        <lb />z wielikiemi łzami <persName ref="#God" type="religion">Boga</persName>
-                        <lb />wszechmogącego wzywajęcy, anjoł
-                        <lb />
+                        <lb n="22" />z wielikiemi łzami <persName ref="#God" type="religion">Boga</persName>
+                        <lb n="23" />wszechmogącego wzywajęcy, anjoł
+                        <lb n="24" />
                             <choice>
                                 <orig>zniebios</orig>
                                 <reg>z niebios</reg>
                             </choice> przyszedł k niej wiesieląc
-                        <lb />ją: „<persName ref="#Mary">Maryja</persName>, dziewice święta, 
+                        <lb n="25" />ją: „<persName ref="#Mary">Maryja</persName>, dziewice święta, 
                             <choice>
                                 <orig>nieudręczajsie</orig>
                                 <reg>nie udręczaj sie</reg>
                             </choice>
-                        <lb />tako wielmi smętkiem, iże <persName ref="#God" type="religion">Bog</persName>
-                        <lb />obeźrał i usłyszał twe modlitwy i
+                        <lb n="26" />tako wielmi smętkiem, iże <persName ref="#God" type="religion">Bog</persName>
+                        <lb n="27" />obeźrał i usłyszał twe modlitwy i
                     </p>
                     <pb xml:id="p38" n="38" facs="#pg38" />
                     <p>
-                        <lb />posłał mię z nieba 
+                        <lb n="1" />posłał mię z nieba 
                             <choice>
                                 <orig>ktobie</orig>
                                 <reg>k tobie</reg>
                             </choice>, bych cie ucieszył,
-                        <lb />bo cie chce chować 
+                        <lb n="2" />bo cie chce chować 
                             <choice>
                                 <orig>wtem</orig>
                                 <reg>w twem</reg>
                             </choice> dziewiczem
-                        <lb />stadle. Wszakoż będziesz oddana podług
-                        <lb />małżeństwa i obyczaja małżeńskiego temu
-                        <lb />świętemu mężowi <persName ref="#Joseph">Jozefowi</persName>, jen ciebie
-                        <lb />schowa 
+                        <lb n="3" />stadle. Wszakoż będziesz oddana podług
+                        <lb n="4" />małżeństwa i obyczaja małżeńskiego temu
+                        <lb n="5" />świętemu mężowi <persName ref="#Joseph">Jozefowi</persName>, jen ciebie
+                        <lb n="6" />schowa 
                             <choice>
                                 <orig>wtem</orig>
                                 <reg>w twem</reg>
                             </choice> dostojnym dziewictwie,
-                        <lb />iże czystą panną 
+                        <lb n="7" />iże czystą panną 
                             <choice>
                                 <orig>nawieki</orig>
                                 <reg>na wieki</reg>
                             </choice> ostaniesz, wszakoż
-                        <lb />zakon popełnisz i ustawienie <persName ref="#Moses">Mojżeszowo</persName>,
-                        <lb />bo masz być oddana świętemu mężu
-                        <lb /><persName ref="#Joseph">Jozefowi</persName> i będziesz jemu przyłączona
-                        <lb />obyczajem małżeńskiem. 
+                        <lb n="8" />zakon popełnisz i ustawienie <persName ref="#Moses">Mojżeszowo</persName>,
+                        <lb n="9" />bo masz być oddana świętemu mężu
+                        <lb n="10" /><persName ref="#Joseph">Jozefowi</persName> i będziesz jemu przyłączona
+                        <lb n="11" />obyczajem małżeńskiem. 
                             <choice>
                                 <orig>Ten ci</orig>
                                 <reg>Tenci</reg>
                             </choice> jest
-                        <lb />mąż dziwnego miłosierdzia a podług twego
-                        <lb />ślubu wierny miłośnik dostojne czystoty,
-                        <lb />bo od swego dziewictwa żył w kaźni boże
-                        <lb />wiernie i 
+                        <lb n="12" />mąż dziwnego miłosierdzia a podług twego
+                        <lb n="13" />ślubu wierny miłośnik dostojne czystoty,
+                        <lb n="14" />bo od swego dziewictwa żył w kaźni boże
+                        <lb n="15" />wiernie i 
                             <choice>
                                 <orig>wecnocie</orig>
                                 <reg>we cnocie</reg>
                             </choice> swego żywota a też
-                        <lb />jest barzo cichy, śmierny i dostojny a
-                        <lb />szwej rozkoszy cielestne wieliki nieprzyjaciel,
-                        <lb />w słowie prawdziwy, śmierny a barzo
-                        <lb />poczestny. 
+                        <lb n="16" />jest barzo cichy, śmierny i dostojny a
+                        <lb n="17" />szwej rozkoszy cielestne wieliki nieprzyjaciel,
+                        <lb n="18" />w słowie prawdziwy, śmierny a barzo
+                        <lb n="19" />poczestny. 
                             <choice>
                                 <orig>Tego dla</orig>
                                 <reg>Tegodla</reg>
                             </choice> twego małżeństwa
-                        <lb />jest dostojen a ciebie nigdy ktorem
-                        <lb />gniewem ani smętkiem ani pogorszenim
-                        <lb />zakłopoce, ale cie zawżdy będzie chować
-                        <lb />jako czystą dziewkę a będzie tajemnik
-                        <lb />twej czystości Ten będzie omyślał
-                        <lb />potrzeby twemu żywotu a służbę czystą
-                        <lb />będzie tobie ukazować On tobie będzie
-                        <lb />oblubieniec, towarzysz i brat, a ty
+                        <lb n="20" />jest dostojen a ciebie nigdy ktorem
+                        <lb n="21" />gniewem ani smętkiem ani pogorszenim
+                        <lb n="22" />zakłopoce, ale cie zawżdy będzie chować
+                        <lb n="23" />jako czystą dziewkę a będzie tajemnik
+                        <lb n="24" />twej czystości Ten będzie omyślał
+                        <lb n="25" />potrzeby twemu żywotu a służbę czystą
+                        <lb n="26" />będzie tobie ukazować On tobie będzie
+                        <lb n="27" />oblubieniec, towarzysz i brat, a ty
                     </p>
                     <pb xml:id="p39" n="39" facs="#pg39" />
                     <p>
-                        <lb />jemu będziesz siostra, oblubieńca i
-                        <lb />matka”. A zmowiwszy to anjoł 
+                        <lb n="1" />jemu będziesz siostra, oblubieńca i
+                        <lb n="2" />matka”. A zmowiwszy to anjoł 
                             <choice>
                                 <orig>niedał</orig>
                                 <reg>nie dał</reg>
                             </choice> sie
-                        <lb />dalej widzieci a <persName ref="#Mary">
+                        <lb n="3" />dalej widzieci a <persName ref="#Mary">
                             <choice>
                                 <orig>Maria</orig>
                                 <reg>Maryja</reg>
                             </choice></persName> za tem ucieszenim
-                        <lb />polecała sie <persName ref="#God" type="religion">Bogu</persName> wszechmogącemu
-                        <lb />
+                        <lb n="4" />polecała sie <persName ref="#God" type="religion">Bogu</persName> wszechmogącemu
+                        <lb n="5" />
                             <choice>
                                 <orig>zwielikiem</orig>
                                 <reg>z wielikiem</reg>
                             </choice> dziękowanim. Potem
-                        <lb />czcienie o tem, jako dziewica <persName ref="#Mary">
+                        <lb n="6" />czcienie o tem, jako dziewica <persName ref="#Mary">
                             <choice>
                                 <orig>Marya</orig>
                                 <reg>Maryja</reg>
                             </choice>
                         </persName>
-                        <lb />oddana <persName ref="#Joseph">Jozefowi</persName> a jako jemu popowie
-                        <lb />dali roku trzy miesiące pojąć
-                        <lb /><persName ref="#Mary">
+                        <lb n="7" />oddana <persName ref="#Joseph">Jozefowi</persName> a jako jemu popowie
+                        <lb n="8" />dali roku trzy miesiące pojąć
+                        <lb n="9" /><persName ref="#Mary">
                             <choice>
                                 <orig>Marya</orig>
                                 <reg>Maryją</reg>
                             </choice></persName> sobie oblubieńcę
-                        <lb />Potem natychmiast księża żydowska
-                        <lb />wezwawszy błogosławioną dziewicę
-                        <lb /><persName ref="#Mary">
+                        <lb n="10" />Potem natychmiast księża żydowska
+                        <lb n="11" />wezwawszy błogosławioną dziewicę
+                        <lb n="12" /><persName ref="#Mary">
                             <choice>
                                 <orig>Marya</orig>
                                 <reg>Maryją</reg>
                             </choice></persName> i oddali ślubnie dostojnemu mężu
-                        <lb /><persName ref="#Joseph">Jozefowi</persName> a dali jemu roku trzy miesiące,
-                        <lb />by jej 
+                        <lb n="13" /><persName ref="#Joseph">Jozefowi</persName> a dali jemu roku trzy miesiące,
+                        <lb n="14" />by jej 
                             <choice>
                                 <orig>niebrał</orig>
                                 <reg>nie brał</reg>
                             </choice> aże po dwanaście
-                        <lb />niedziel. Tako <persName ref="#Joseph">Jozef</persName> natychmiast wrocił się
-                        <lb />do <placeName ref="#Bethlehem">Betleem</placeName> 
+                        <lb n="15" />niedziel. Tako <persName ref="#Joseph">Jozef</persName> natychmiast wrocił się
+                        <lb n="16" />do <placeName ref="#Bethlehem">Betleem</placeName> 
                             <choice>
                                 <orig>zwielikiem</orig>
                                 <reg>z wielikiem</reg>
                             </choice> weselim, dziękując
-                        <lb />Bogu wszechmogącemu 
+                        <lb n="17" />Bogu wszechmogącemu 
                             <choice>
                                 <orig>ztakiego</orig>
                                 <reg>z takiego</reg>
                             </choice> daru i
-                        <lb />naprawił potrzeby domowe ku swej swadźbie.
-                        <lb />Czcienie o tem, jako książęta żydowska
-                        <lb />posłali <persName ref="#Mary">Maryją</persName> do <placeName ref="#Nazareth">Nazaret</placeName> 
+                        <lb n="18" />naprawił potrzeby domowe ku swej swadźbie.
+                        <lb n="19" />Czcienie o tem, jako książęta żydowska
+                        <lb n="20" />posłali <persName ref="#Mary">Maryją</persName> do <placeName ref="#Nazareth">Nazaret</placeName> 
                             <choice>
                                 <orig>wdom</orig>
                                 <reg>w dom</reg>
                             </choice> jej
-                        <lb />ojca a dali jej siedm panien na
-                        <lb />świadectwo jej czystoty
-                        <lb />Kiedy dziewicę <persName ref="#Mary">
+                        <lb n="21" />ojca a dali jej siedm panien na
+                        <lb n="22" />świadectwo jej czystoty
+                        <lb n="23" />Kiedy dziewicę <persName ref="#Mary">
                             <choice>
                                 <orig>Maryą</orig>
                                 <reg>Maryją</reg>
                             </choice></persName> do <placeName ref="#Nazareth">Nazaret</placeName> biskupi
-                        <lb />posłali do jej ojca, oddali ją siedmi
-                        <lb />pannam jej towarzyszek, ktorzyż 
+                        <lb n="24" />posłali do jej ojca, oddali ją siedmi
+                        <lb n="25" />pannam jej towarzyszek, ktorzyż 
                             <choice>
                                 <orig>snią</orig>
                                 <reg>s nią</reg>
                             </choice>
-                        <lb />przebywały przedtym w bożem domu,
-                        <lb />
+                        <lb n="26" />przebywały przedtym w bożem domu,
+                        <lb n="27" />
                             <choice>
                                 <orig>a by</orig>
                                 <reg>aby</reg>

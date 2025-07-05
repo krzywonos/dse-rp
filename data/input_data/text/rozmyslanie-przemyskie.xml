@@ -993,7 +993,7 @@
             <gap quantity="808" unit="pages" reason="sampling" extent="from 40 to 847" />
         </body>
         <back>
-            <div type="transliteration">
+            <div type="transliteration" xml:lang="pl">
                 <div corresp="#p29">
                     <p>
                         <lb n="1"/>ką myely vcijnycz Czczyenye o tem yze

@@ -1084,79 +1084,52 @@
 		<xsl:if test="$edition_array[3]!=''"><!-- Transliteration -->
 			<xsl:variable name="edition_current" select="lower-case($edition_array[3])" />
 			<xsl:result-document method="text" href="{$filePrefix}/data/output_data/{$edition_current}/{$edition_current}.json" indent="no">
-				{"pages": [
-					<xsl:for-each-group select="//node()[name()=$ed_content]/descendant-or-self::node()[name()=$start_split]/node()" group-starting-with="//tei:pb">
+				{ "pages": [
+					<!-- Questa istruzione introdotta da XSLT 2.0 selezione un set di elementi, li divide in guppi seguendo un determinato criterio e infine traduce il contenuto
+					di ogni gruppo. Per la selezione dei gruppi utilizza attributo group-starting-with: che divide il blocco di elementi in gruppi, creando un niovo gruppo
+					ogni volta che inconta l'elemento indicato come criterio di selezione-->
+					<xsl:for-each select="//tei:div[starts-with(@type,'transliteration')]">
+						<xsl:variable name="currentLang" select="@xml:lang"/>
+						<!-- If it contains <div>s with page indication made with @corresp, search results will be divided into pages -->
 						<xsl:choose>
-							<xsl:when test="current-group()/(descendant-or-self::lb)">
-								<xsl:for-each-group select="current-group()[not(self::pb)]" group-starting-with="tei:lb">
-									<xsl:if test="current-group()[not((string-length(normalize-space()))= 0)]">
-										<xsl:variable name="current_text">
-											<xsl:apply-templates select="current-group()[not(self::tei:lb) and not(ancestor-or-self::tei:back)]" mode="translit"/>
-										</xsl:variable>
-										<xsl:variable name="current_text1">
-											<xsl:apply-templates select="$current_text" mode="delete_el2"/>
-										</xsl:variable>
-										<xsl:variable name="current_text2">
-											<xsl:apply-templates select="$current_text1//text()[not(ancestor::span)]" mode="deleteSpaces"/>
-										</xsl:variable>
-										{ 
-											"line" : "<xsl:call-template name="line_refs4search"/>",
-											"text" : "<xsl:copy-of select="replace($current_text2, '(\\|/)', '$1$1')"/>",
-											"tags" : "<xsl:call-template name="doc_refs4search"/>",
-											"loc" : "<xsl:call-template name="page_refs4search"/>",
-											"inFront": "<xsl:value-of select="count(current-group()[ancestor-or-self::front]) != 0"/>"
-										},
-									</xsl:if>
-								</xsl:for-each-group>
+							<xsl:when test="tei:div[@type='page'][@corresp]">
+								<xsl:for-each select="tei:div[@type='page'][@corresp]">
+									<xsl:variable name="pageId" select="substring-after(@corresp, '#')"/>
+									
+									<xsl:variable name="page_label">
+										<xsl:choose>
+											<xsl:when test="ancestor-or-self::tei:text//tei:pb[@xml:id=$pageId]/@n">
+												<xsl:value-of select="ancestor-or-self::tei:text//tei:pb[@xml:id=$pageId]/@n"/>
+											</xsl:when>
+											<xsl:when test="ancestor-or-self::tei:text//tei:pb[@xml:id=$pageId]/@xml:id">
+												<xsl:value-of select="ancestor-or-self::tei:text//tei:pb[@xml:id=$pageId]/@xml:id"/>
+											</xsl:when>
+											<xsl:otherwise>no_page_info</xsl:otherwise>
+										</xsl:choose>
+									</xsl:variable>
+									<xsl:call-template name="searchTranslationResults">
+										<xsl:with-param name="currentLang" select="$currentLang"/>
+										<xsl:with-param name="pageRef">
+											<xsl:value-of select="$pageId"/>|<xsl:value-of select="$page_label"/>
+										</xsl:with-param>
+									</xsl:call-template>
+								</xsl:for-each>
 							</xsl:when>
-							<xsl:when test="current-group()/(descendant-or-self::p)">
-								<!--<xsl:variable name="var"><xsl:apply-templates select="current-group()[not(self::tei:pb)]" mode="translit"/></xsl:variable>
-								<xsl:copy-of select="$var//text()"></xsl:copy-of>-->
-								<xsl:for-each-group select="current-group()/descendant::p" group-starting-with="//tei:p">
-									<xsl:variable name="current_text">
-										<xsl:apply-templates select="current-group()[not(self::tei:lb) and not(ancestor-or-self::tei:back)]" mode="translit"/>
-									</xsl:variable>
-									<xsl:variable name="current_text1">
-										<xsl:apply-templates select="$current_text"
-											mode="delete_el2"/>
-									</xsl:variable>
-									<xsl:variable name="current_text2">
-										<xsl:apply-templates
-											select="$current_text1//text()[not(ancestor::span)]"
-											mode="deleteSpaces"/>
-									</xsl:variable>
-									{
-										"line" : "<xsl:call-template name="line_refs4search"/>", 
-										"text" : "<xsl:copy-of select="replace($current_text2, '(\\|/)', '$1$1')"/>",
-										"tags" : "<xsl:call-template name="doc_refs4search"/>",
-										"loc" : "<xsl:call-template name="page_refs4search"/>",
-										"inFront": "<xsl:value-of select="count(current-group()[ancestor-or-self::front]) != 0"/>"
-									},
-								</xsl:for-each-group>
-							</xsl:when>
-							<xsl:otherwise>
-								<xsl:variable name="current_text">
-									<xsl:apply-templates select="current-group()[not(self::tei:pb) and not(ancestor-or-self::tei:back)]" mode="interp"/>
-								</xsl:variable>
-								<xsl:variable name="current_text1">
-									<xsl:apply-templates select="$current_text" mode="delete_el2"/>
-								</xsl:variable>
-								<xsl:variable name="current_text2">
-									<xsl:apply-templates
-										select="$current_text1//text()[not(ancestor::span)]"
-										mode="deleteSpaces"/>
-								</xsl:variable> 
-								{ 
-									"line" : "<xsl:call-template name="paragraph_refs4search"/>", 
-									"text" : "<xsl:copy-of select="replace($current_text2, '(\\|/)', '$1$1')"/>", 
-									"tags" : "<xsl:call-template name="doc_refs4search"/>", 
-									"loc" : "<xsl:call-template name="page_refs4search"/>",
-									"inFront": "<xsl:value-of select="count(current-group()[ancestor-or-self::front]) != 0"/>"
-								}, 
+							<xsl:otherwise><!-- Nessuna indicazione di pagina -->
+								<xsl:call-template name="searchTranslationResults">
+									<xsl:with-param name="currentLang" select="$currentLang"/>
+									<xsl:with-param name="pageRef" select="''"/>
+								</xsl:call-template>
 							</xsl:otherwise>
 						</xsl:choose>
-					</xsl:for-each-group> 
-				{ "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
+						<!-- TEXTUAL CONTENT -->
+					</xsl:for-each>
+				{
+				"line" : "",
+				"text" : "",
+				"tags" : "",
+				"loc" : ""
+				}]}
 			</xsl:result-document>
 		</xsl:if>
 		
@@ -1167,7 +1140,7 @@
 					<!-- Questa istruzione introdotta da XSLT 2.0 selezione un set di elementi, li divide in guppi seguendo un determinato criterio e infine traduce il contenuto
 					di ogni gruppo. Per la selezione dei gruppi utilizza attributo group-starting-with: che divide il blocco di elementi in gruppi, creando un niovo gruppo
 					ogni volta che inconta l'elemento indicato come criterio di selezione-->
-					<xsl:for-each select="//tei:div[starts-with(@type,'transl')]">
+					<xsl:for-each select="//tei:div[starts-with(@type,'translation')]">
 						<xsl:variable name="currentLang" select="@xml:lang"/>
 						<!-- If it contains <div>s with page indication made with @corresp, search results will be divided into pages -->
 						<xsl:choose>

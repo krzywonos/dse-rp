@@ -280,5 +280,6 @@ jquery_lang_js.prototype.lang.en = {
 	"it": "Italian",
 	"es": "Spanish",
 	"de": "German",
-	"fr": "French"
+	"fr": "French",
+	"tr": "Transliteration"
 }

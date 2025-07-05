@@ -142,7 +142,6 @@
 	<!-- IT: E' possibile personalizzare il prefisso usato nella creazione delle classi degli elementi html di un'edizione. -->
 	<xsl:variable name="ed_name1">dipl</xsl:variable>
 	<xsl:variable name="ed_name2">interp</xsl:variable>
-	<xsl:variable name="ed_name3">translit</xsl:variable>
 	<!-- Variable -->
 	
 	<!-- EN: Enable/Disable translation -->

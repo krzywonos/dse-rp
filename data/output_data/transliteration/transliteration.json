@@ -1,218 +1,2421 @@
 
-				{ "pages": [
-					
-					
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " ką myely vcijnycz Czczyenye o tem yze kaplanij postavijly y przijkazaly posth za trzij dnij prze dzyevyczą maryą zv velijkym nabozenysthvem Byskvpy y kxyaza zyddowska przykazalij za trzy dny zvyelykyem nabozenstvem zyvatącz y proschącz boga wschechmogące go by ym raczyl zyavycz y przykazacz przez anyola czo bych my stą dzyevyczą mijelij vczynycz O tem gloszye ktory slyschely vkosczye lye vkavyącz kto byl malzenystwa do stoyen zdzyevyczą maryą POtem trzijeczyego dnyaa stal szye glosz vye lykij vkosczyelye aze wschyszczy slyze ly Isch tako movyl a by wschyszczy mlodzye nczy spokolyenya davydowa albo iuda yego dz yada mlodzy y starzy ktorzy by nyebyky vmal zenystvye ysch by przysly do kosczyola aby kazdy mogl vrącze rozgą albo laską a przysch edl do koszczyola by yą podal svemv byskvpo vij vyschemv ysch b yą myal postavycz po spolv przyoltarzv a naczyyeyby szyą pokaza la latoroszly kvyath potem kyedy by yą by skvpovye podal a tesch nanye by dvch svyą ty szyedzyal vgolebkovey vyobrazenyv yzecz tey vest dostoyen a by yemy marya dzyevycza dan kv malzenystw Tego dlya byskvpy wschysczy y ksyąza zydowsczy ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " przykazalij wschystkyem zydowskyey zye mij ktorysch koly spo kolyenija zyvda y kto regosch byl davyd ktorzy by njebyly zma lzenystvije yescze do yervsalem by przij schly kazdij nyosącz laską vrącze Tedy ste go pokolyenya vyelye mesczysny mlodych y starych przyslo kazdy noschącz laską v rąkv podlvg przykaząnya ij podaly ye by skvpovy a on vzyąl y naznamyenoval kazdego y postavyl podlye oltarza kyedy za vyelkyem nabozenystvem czekaly czv da bozego aze do trzeczyego dnya tamo bądacz nyevzrzyely nyeyednego dzyw Tako potym daly szye namodlytvy boga w schechmogączego naboznymy modlytwamy proschącz by ym vkazal sve czvdo yako obyeczal tedy opyącz glosz bosky vkosczye lye vschlyschely rząkączy yze tv yescze nyeprzy any svey lasky nyeprzynyoslij Thv bydly vbethleem szyn yacobow spo kolyenya iuda naymyą Iozeph Czczyenye o Iozephovey chvalye oblyvbyencza marye y o yego czesnosczij TEn Iozeph byl szym betleemszky szyn Ia kvbow czestnych obyczayow svyą tego zyvota mądroscza szyą nadynne svyą czyl swą laską Wschytky przechodzyl a byl brat rodzony klyeophye yen posmyerczy ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " yachymo anna syostra gdy zmarl poyąl sobye zoną ten byl vyerny y wsche pra vdij nasladowcza czystotij czyelestne nye vynnyk nyevynnoscz svego sercza cho val bogv y lyvdzyom byl myl bo byl vslo vye prawdzyvy vyerny y przespyecznij bo byl prosty dobry smyerny czychy pokor nij y vyelmy rostro pny skazdem szyą laska vye vmovyl kasdemv laską vkazal Czye szyelstvem szyą barzo mądrze y rostropnye obchodzyl bo zawzdy dobre dostatky myal a stego pomagal vbogyem nyemocznym p yelgrzymom y kazdemv ktokoly przebog proszyl bo byl pelen gorączego myloszyer dzya Czesto bogv wschechmogączemv slv zyl svemy naboznymy modlytvamij posten czvczym vdrączal svoye czyalo kasny moy zeschova zakonv rad choval vschytką myslyą serczem y dvschą myloval boga wschechmogaczego kv svemv blyznyemv zawdy myal myloszyerdzye Tesch byl ba rzo czystego czyala bo wschystka roskosch czyelestną odszyebye byl otrączyl y my loval czystotą a przeto byl czysty przyro dzenya svego vrodzenya byl czystego nat chnyenym dvcha svyątego byl czysty sve go czyala czysty na dvschy czysty wczy ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " nych a wdostoynych obyczayow Czlov yeka nyednego nyepotąpyl any potąpyal any vbogyego y bogatego yednako mylo val Tesch nyebyl sczodry any skapy pr zednye alye sczodry mylosczyvy vyeszyo ly y bogv myly Czczyenye o tem yako Iozeph przijschedl do kosczyola a kako yego laska pvsczyla obrosla y zkwytla a duch svyaty nanyey szyedzyal Slyschącz popovye ten glosz y pevno z vyedzyawschy y ze Iozeph slvga bozy dostoyen tey dzyevycze natychmyast posla ly do betlegem a by tesch swą laską przy schedl do kosczyola A Iozeph yako prav dzyvy czlovyek nathychmyast byl poslv schen a przysched do Ierusalem y wschedl vkosczyol noszącz svą laską v Rąkv y podal yą vyschemv byskv povij yedno yą wzyal asz nathychmyast ona ysta svcha laska pv sczyla odrosly y kvytla a yescze vrąkv v byskvpa laska byla a duch svyąty stą pyl y szyedzyal nanyey wgolembyczym vy obrazenyv ktoresz vydzyely y posvyączscha ly vyelykye tlvscze lyvda y dzyvovaly szye temv naszylnye a padnąwschy wsch ysczy na swe kolana chvalyly boga wsch echmogączego rzekącz yze ten yest prav ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " dzyvy a dostoynij bo yest dzyvnym zna my enyem odboga vybrany bo vyerny a prawdzyvy slvga bozy tego dlya yest dostoyen a by yemv dana ta blogoslavyo na dzyevycza marya ktorasz krolem anyel skyem nadewschytkye ynsche vybrana y zaslvzyla vboga a by vto dostoyną malz enstwo svyątemv temv czlovyekv byla da na bo yą bog vczynyl swą chvalą cznotą y wschytkym dostoyenstvem Czczyenye o tem kxyazą zydowska kazaly Ioze phovy poyącz za zoną marya albo oblyvbyenczą KXyaza byskvpovye popovye Zydowsczy kazaly Iozephovy aby marya poyal sobye oblyvbyenyczą y rzekly yemv Io zephye mązv nasvyątschy a bogv myly ktorysz dostoyen malzenstva vybraney dz yevycze bocz yą bog przez vyelykye czv do povyschyl y vybral oblyvbyenyczą dzyevyczy marie tego dla oddavamy tobye to dostoyną dzyevycztvo a kazemy tobye by yą wzyąl zazoną Odpovyedzyal yest ym Iozeph y rzekl yaczyem vmyslyl ny gdy oblyvbyenyczą albo zony poymovacz bo czyem wschytką myloscz yvze opvsczyl wschakosch acz bych myal tą volą ysch ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " Bych chczyal zoną poyacz wschakosch nye yest podobno a by tako roskoschne tako vye lebne tako svyate dzyevyczy byl oblyvby on ya nądzny wschego lyvda nyschy nyey estem dostoyen porvschycz tako svyątego dz yevycztva bovym ya yvsch przyschedl w stare lyata nyeyest podobno yschbych tako mlodą y tako dostoyną dzywka poyal O modlytvye Iozephovey kyedy y przy mącząno poyącz dzyevyczą marya Ayako byskvpovye y wschytek lyvd począly y przymączacz by ya poyąl Iozeph dal szyą na modlytvą y począl boga wschechmogączego sgorączymy lzamy pro szycz rzekacz Gospodnye wschechmogączy stvorzyczyelyv nyeba y zyemye opyekalny kv rodzayv czlovyeczego thysz stvorzyl pyr vego czlovyeka sgylovate zyemye y posza dzylesz y vrayv twe slotkosczy zebra albo skosczy stvorzylesz nyevyastą dawschy yą yemv y przykazalesz a by szyą mnozyly od szyebye rodzay czlovyeczy ale by szyą scho dzyly przesz gorączo sczy a bys my myely plod vnyevynstvye odgrzecha ale to dosto yenstvo pyrva nascha rodzyna svym prze stąpyenym straczyly y przyvyedly nasz sve dzyeczy kv grzechv a przeto ya ch ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " czyalem szye tego grzecha chovacz nyevy nyen myslylem yvsch nygdy czyelestną nyeczystotą czyala nyepokalyacz alem yą czysto chczyal chovacz Stvorzyczyelyv moy yen yesz mylosnyk czystoty przeczye dvszą moyą slvbyl tego dla czyebye myly gospodnye proschą a by myą raczyl zabavycz a bych nyeprzymączon tey svyątey dzyevy czy porvszycz ktora yest zvyerczyadlo czystoty y przybytek vyernego bosthva Czczyenye o tem yako anyol Iozepha proszyl by sobye poyąl marya oblyv byenczą sobye a by szyą nyą opyekal Kyedy szyą anyol yemv pokazal y po cząl y vyeszyelycz rzekącz o Ioze phye slvgo bozy otą swą przydczą nye mączy szyą alye szyą vyeszyel a slyvby sobye marya oblyvby enyczą bocz to yest podlvg tvego obyecząna vyerna mylosnycza dzyevycztva y svycza svyatey czystoty a podlug tvey voly ona ząda czysta dzyevy cza ostacz bo przez tą dzyevycza anyel szkye ma bycz napravyenye a tesz przesz tą dzyevycza krolestwo zydowskye ma by cz popravyone przez to lyvd zydowsky bą dzye povyschon przez tą badzye wschystek svyat zbavyon przez tą krolestvo nyebye skye ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " Bądzye povyschono przesz tą bądzye mocz pyekyelna rozbyta Tego dla slvby y a so bye y przylączy oblyvbyencza Wschakosch ya zawzdy vyey do stoyenstvye bądzyesch cho vacz omyslyayącz yey potrzeby a slvzacz yako svey krolovnye O modlytwye blogo slavyoney dzyevycze marie kyedy yey ka zano Iozepha poyącz oblyvbyenczem Zydovye kyedy począly blogoslavyoną dzyevyczą przymączacz a by Iozepha slvgą bozego oblyvbyla sobye mązem vczyekla szye kv bogv wschechmogaczemv zgorączymij lzamy y począla szye modlycz sczyąskym w zdychanym sercza rzekącz O krolv nyebyesky o vyerny obezrzyczyelyv kazdego czystego ser cza any mego czyala any ducha zawzdy moy dvch czysto chovala natczye ynego nyeząda la any mylovala a tobyem moy kvyat mey czystoty offyerovala tobye samemv moye dzye vycztwo schovala alye dzyszya moy mamy leyschy gospodnye przymączaya mye abych ten slyvb y tą obyetnycza przestąpyla bo mye yvsch oddalayą tvey roskoschney mylosczy yze yvsch przymączaya mij y moczą ynego oblyvbyenycza slyvbycz y przy lączycz szye mązovy obcemv Yedyna nadzyeyo zba vyenya mego czczyy stvorzyczyelyv moy proschą czyebye a by nyeprzepvsczyl ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " Czyala mego y dzyevyczthva porvszycz bo yesz thy moy tovarzysch y przybytkv ser czamego osobny obranyecz Czyebyem mylo vala tobyem szye radovala czyebyem zaw zdy ządala naczczye oblyvbyencza nyeschvka la Thys sam oblyvbyenyecz moy thy yesz sam mąsz moy Thy yesz sam nasvyątschy Thy yesz sam vmovny y nasvytką rądą Th ysz vyelyebnyeyschy nadewschystky yne kraschy Thy yesz moy tayemnyk Thy yesz moy zbavyczyel Thy yesz sam moy myly y mylosnyk Thy yesz moy przyaczyly tovarzysch Tego dla moy namyleyschy dzyszya czyebye proschą mylosczyvye vybaw mye stego vyelykyego smątkv Czczyenye otem yako anyol pokazal sz ye boszoslavyoney y vyelyebney dzye vyczy maryey podpomaga yą y vye szyely yą zojey smątkv y ze przymą czona Iozepha poyącz MArya kyedy byla tako dlvgo namod lytvye zvyelykyemy lzamy boga w schechmogączego wzyvayączy Anyol znyebyoss przyschedl knyey vyeszyelącz yą Marya dzyevyczą svyąta nyevdrącz ayszye tako vyelmy smątkyem Ize bog o bezral y vschlyschal twą modlytvy y ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " poslal myą znyeba kthobye bych czye vcz yeschyl bo czye chczą vtem dzyevyczem sta dlye wschakosch bądzyesch oddana podlvg malzenstva y obyczayą malzenyskyemv te mv svyątemv mązovy Iozephovy yen czye bye schova vtem dostoynym dzyevycztvye yze czystą panną navyeky ostanyesch vsch akosch zakon popelnysch vstavyenye moyse schovo bo masch bycz oddana svyątemv mą zv Iozephovij y bądzyesch yemv przylo czona obyczayem malzenskyem Ten czy ye st maz dzyvnego myloszyerdzya a tvego slv bv vyerny mylosnyk dostoyen czystoty bo od svego dzyevycztva zyl vkazny boze vyernye svego zyvota y vecznoczye a tesz yest barzo czychy smyerny y dostoyny a svey roskoschy czyelestne vyelyky nyeprzy aczyel wslovye prawdzyvy smyerny a barzo poczestnij tego dla tvego malzenyst va yest dostoyen a czyebye nygdy ktorem gnyevem any smątkyem a ny pogoschenym zaklopocze alye czye zawsdy bądzye chovacz yako czystą dzyewka a bądzye tayemnyk tvey czystosczy ten bądzye omyslyal po trzeby tvemv zyvotą a slvzbą czystą bą dzye tobye vkazovacz on tobye bądzye oblyvbyenyecz tovarzysch y brat a thij ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : " yemv bądzyesch syostra oblyvbyencza y matka A zmovywschy to anyol nyedal szye daley vydzyeczij A maria zatem vczy eschenym polyeczala szye bogv wschechmo gączemv zvyelykyem dzyekovanym Potem czczyenye o tem yako dzyevycza marya oddana Iozeffovy a yako yemv popovye daly Rokv trzy myąszyącze poyącz mar ya sobye oblyvbyenczą POtem nathychmyast kxyaza zydowska vezvawschy blogoslavyoną dzyevyczą marya y oddaly slyvbnye dostoynemv mą ze Iozeffovy a daly yemv rokv trzy myąszyą cze by yey nyebral aze podvasczye nyedz yel Tako Iozeff natychmyast vroczyl szyą do Betleem zvyelykyem veselym dzyąkvyącz bogv wschechmogączemv stakyego darv y napravyl potrzeby domove kv svey svaczbye Czczyenye o tem yako xyaząta zydowska poslaly marya do nazareth vdom yey oycza a daly yey syedm panyen nasvya decztwo yey czystotij Kyedy dzyevyczą maryą do nazareth byskvpy poslaly do yey oycza oddaly yą szyedmy pannam yey tovarzyschek kto rzysch snyą przebyvaly wbozem a by yą czyeschyly a tesch czynyly svyądecztvo yeij ",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-					{ 
-						"line" : "no line info|no line info",
-						"text" : "",
-						"tags" : "text_1|text 1",
-						"loc" : "",
-						"inFront": "",
-						"lang": "pl"
-					},
-				
-				{
-				"line" : "",
-				"text" : "",
-				"tags" : "",
-				"loc" : ""
-				}]}
+				{"pages": [
+					 
+								{ 
+									"line" : "|", 
+									"text" : "", 
+									"tags" : "1|1", 
+									"loc" : "no_page_info|no_page_info",
+									"inFront": "false"
+								}, 
+							
+										{ 
+											"line" : "1|line 1",
+											"text" : "ką myely vcijnycz Czczyenye o tem yze",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "kaplanij postavijly y przijkazaly posth",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "za trzij dnij prze dzyevyczą maryą zv",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "velijkym nabozenysthvem",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "Byskvpy y kxyaza zyddowska przykazalij",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "za trzy dny zvyelykyem nabozenstvem",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "zyvatącz y proschącz boga wschechmogące",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "go by ym raczyl zyavycz y przykazacz przez",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "anyola czo bych my stą dzyevyczą mijelij vczynycz",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "O tem gloszye ktory slyschely vkosczye",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "lye vkavyącz kto byl malzenystwa do",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "stoyen zdzyevyczą maryą",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "POtem trzijeczyego dnyaa stal szye glosz vye",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "lykij vkosczyelye aze wschyszczy slyze",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "ly Isch tako movyl a by wschyszczy mlodzye",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "nczy spokolyenya davydowa albo iuda yego dz",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "yada mlodzy y starzy ktorzy by nyebyky vmal",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "zenystvye ysch by przysly do kosczyola aby",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "kazdy mogl vrącze rozgą albo laską a przysch",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "edl do koszczyola by yą podal svemv byskvpo",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "vij vyschemv ysch b yą myal postavycz po",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "spolv przyoltarzv a naczyyeyby szyą pokaza",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "la latoroszly kvyath potem kyedy by yą by",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "skvpovye podal a tesch nanye by dvch svyą",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "ty szyedzyal vgolebkovey vyobrazenyv",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "yzecz tey vest dostoyen a by yemy marya",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "dzyevycza dan kv malzenystw Tego dlya",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "byskvpy wschysczy y ksyąza zydowsczy",
+											"tags" : "1|1",
+											"loc" : "p29|29",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "przykazalij wschystkyem zydowskyey zye",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "mij ktorysch koly spo kolyenija zyvda y kto",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "regosch byl davyd ktorzy by njebyly zma",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "lzenystvije yescze do yervsalem by przij",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "schly kazdij nyosącz laską vrącze Tedy ste",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "go pokolyenya vyelye mesczysny mlodych",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "y starych przyslo kazdy noschącz laską v",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "rąkv podlvg przykaząnya ij podaly ye by",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "skvpovy a on vzyąl y naznamyenoval",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "kazdego y postavyl podlye oltarza kyedy",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "za vyelkyem nabozenystvem czekaly czv",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "da bozego aze do trzeczyego dnya tamo",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "bądacz nyevzrzyely nyeyednego dzyw",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "Tako potym daly szye namodlytvy boga w",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "schechmogączego naboznymy modlytwamy",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "proschącz by ym vkazal sve czvdo yako",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "obyeczal tedy opyącz glosz bosky vkosczye",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "lye vschlyschely rząkączy yze tv yescze",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "nyeprzy any svey lasky nyeprzynyoslij",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "Thv bydly vbethleem szyn yacobow spo",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "kolyenya iuda naymyą Iozeph Czczyenye",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "o Iozephovey chvalye oblyvbyencza",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "marye y o yego czesnosczij",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "TEn Iozeph byl szym betleemszky szyn Ia",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "kvbow czestnych obyczayow svyą",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "tego zyvota mądroscza szyą nadynne svyą",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "czyl swą laską Wschytky przechodzyl a",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "byl brat rodzony klyeophye yen posmyerczy",
+											"tags" : "1|1",
+											"loc" : "p30|30",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "yachymo anna syostra gdy zmarl poyąl",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "sobye zoną ten byl vyerny y wsche pra",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "vdij nasladowcza czystotij czyelestne nye",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "vynnyk nyevynnoscz svego sercza cho",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "val bogv y lyvdzyom byl myl bo byl vslo",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "vye prawdzyvy vyerny y przespyecznij",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "bo byl prosty dobry smyerny czychy pokor",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "nij y vyelmy rostro pny skazdem szyą laska",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "vye vmovyl kasdemv laską vkazal Czye",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "szyelstvem szyą barzo mądrze y rostropnye",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "obchodzyl bo zawzdy dobre dostatky myal",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "a stego pomagal vbogyem nyemocznym p",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "yelgrzymom y kazdemv ktokoly przebog",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "proszyl bo byl pelen gorączego myloszyer",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "dzya Czesto bogv wschechmogączemv slv",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "zyl svemy naboznymy modlytvamij posten",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "czvczym vdrączal svoye czyalo kasny moy",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "zeschova zakonv rad choval vschytką",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "myslyą serczem y dvschą myloval boga",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "wschechmogaczego kv svemv blyznyemv",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "zawdy myal myloszyerdzye Tesch byl ba",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "rzo czystego czyala bo wschystka roskosch",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "czyelestną odszyebye byl otrączyl y my",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "loval czystotą a przeto byl czysty przyro",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "dzenya svego vrodzenya byl czystego nat",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "chnyenym dvcha svyątego byl czysty sve",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "go czyala czysty na dvschy czysty wczy",
+											"tags" : "1|1",
+											"loc" : "p31|31",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "nych a wdostoynych obyczayow Czlov",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "yeka nyednego nyepotąpyl any potąpyal",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "any vbogyego y bogatego yednako mylo",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "val Tesch nyebyl sczodry any skapy pr",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "zednye alye sczodry mylosczyvy vyeszyo",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "ly y bogv myly Czczyenye o tem yako",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "Iozeph przijschedl do kosczyola a kako",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "yego laska pvsczyla obrosla y zkwytla",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "a duch svyaty nanyey szyedzyal",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "Slyschącz popovye ten glosz y pevno z",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "vyedzyawschy y ze Iozeph slvga bozy",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "dostoyen tey dzyevycze natychmyast posla",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "ly do betlegem a by tesch swą laską przy",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "schedl do kosczyola A Iozeph yako prav",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "dzyvy czlovyek nathychmyast byl poslv",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "schen a przysched do Ierusalem y wschedl",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "vkosczyol noszącz svą laską v Rąkv y podal",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "yą vyschemv byskv povij yedno yą wzyal",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "asz nathychmyast ona ysta svcha laska pv",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "sczyla odrosly y kvytla a yescze vrąkv v",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "byskvpa laska byla a duch svyąty stą",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "pyl y szyedzyal nanyey wgolembyczym vy",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "obrazenyv ktoresz vydzyely y posvyączscha",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "ly vyelykye tlvscze lyvda y dzyvovaly",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "szye temv naszylnye a padnąwschy wsch",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "ysczy na swe kolana chvalyly boga wsch",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "echmogączego rzekącz yze ten yest prav",
+											"tags" : "1|1",
+											"loc" : "p32|32",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "dzyvy a dostoynij bo yest dzyvnym zna",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "my enyem odboga vybrany bo vyerny",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "a prawdzyvy slvga bozy tego dlya yest",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "dostoyen a by yemv dana ta blogoslavyo",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "na dzyevycza marya ktorasz krolem anyel",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "skyem nadewschytkye ynsche vybrana y",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "zaslvzyla vboga a by vto dostoyną malz",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "enstwo svyątemv temv czlovyekv byla da",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "na bo yą bog vczynyl swą chvalą cznotą",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "y wschytkym dostoyenstvem Czczyenye",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "o tem kxyazą zydowska kazaly Ioze",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "phovy poyącz za zoną marya albo",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "oblyvbyenczą",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "KXyaza byskvpovye popovye Zydowsczy",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "kazaly Iozephovy aby marya poyal",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "sobye oblyvbyenyczą y rzekly yemv Io",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "zephye mązv nasvyątschy a bogv myly",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "ktorysz dostoyen malzenstva vybraney dz",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "yevycze bocz yą bog przez vyelykye czv",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "do povyschyl y vybral oblyvbyenyczą",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "dzyevyczy marie tego dla oddavamy tobye",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "to dostoyną dzyevycztvo a kazemy tobye",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "by yą wzyąl zazoną Odpovyedzyal yest",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "ym Iozeph y rzekl yaczyem vmyslyl ny",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "gdy oblyvbyenyczą albo zony poymovacz",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "bo czyem wschytką myloscz yvze opvsczyl",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "wschakosch acz bych myal tą volą ysch",
+											"tags" : "1|1",
+											"loc" : "p33|33",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "Bych chczyal zoną poyacz wschakosch nye",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "yest podobno a by tako roskoschne tako vye",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "lebne tako svyate dzyevyczy byl oblyvby",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "on ya nądzny wschego lyvda nyschy nyey",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "estem dostoyen porvschycz tako svyątego dz",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "yevycztva bovym ya yvsch przyschedl w",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "stare lyata nyeyest podobno yschbych tako",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "mlodą y tako dostoyną dzywka poyal",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "O modlytvye Iozephovey kyedy y przy",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "mącząno poyącz dzyevyczą marya",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "Ayako byskvpovye y wschytek lyvd",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "począly y przymączacz by ya poyąl",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "Iozeph dal szyą na modlytvą y począl boga",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "wschechmogączego sgorączymy lzamy pro",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "szycz rzekacz Gospodnye wschechmogączy",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "stvorzyczyelyv nyeba y zyemye opyekalny",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "kv rodzayv czlovyeczego thysz stvorzyl pyr",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "vego czlovyeka sgylovate zyemye y posza",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "dzylesz y vrayv twe slotkosczy zebra albo",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "skosczy stvorzylesz nyevyastą dawschy yą",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "yemv y przykazalesz a by szyą mnozyly od",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "szyebye rodzay czlovyeczy ale by szyą scho",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "dzyly przesz gorączo sczy a bys my myely",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "plod vnyevynstvye odgrzecha ale to dosto",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "yenstvo pyrva nascha rodzyna svym prze",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "stąpyenym straczyly y przyvyedly nasz",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "sve dzyeczy kv grzechv a przeto ya ch",
+											"tags" : "1|1",
+											"loc" : "p34|34",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "czyalem szye tego grzecha chovacz nyevy",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "nyen myslylem yvsch nygdy czyelestną",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "nyeczystotą czyala nyepokalyacz alem yą",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "czysto chczyal chovacz Stvorzyczyelyv",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "moy yen yesz mylosnyk czystoty przeczye",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "dvszą moyą slvbyl tego dla czyebye myly",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "gospodnye proschą a by myą raczyl zabavycz",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "a bych nyeprzymączon tey svyątey dzyevy",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "czy porvszycz ktora yest zvyerczyadlo",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "czystoty y przybytek vyernego bosthva",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "Czczyenye o tem yako anyol Iozepha",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "proszyl by sobye poyąl marya oblyv",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "byenczą sobye a by szyą nyą opyekal",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "Kyedy szyą anyol yemv pokazal y po",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "cząl y vyeszyelycz rzekącz o Ioze",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "phye slvgo bozy otą swą przydczą nye",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "mączy szyą alye szyą vyeszyel a slyvby",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "sobye marya oblyvby enyczą bocz to yest",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "podlvg tvego obyecząna vyerna mylosnycza",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "dzyevycztva y svycza svyatey czystoty a",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "podlug tvey voly ona ząda czysta dzyevy",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "cza ostacz bo przez tą dzyevycza anyel",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "szkye ma bycz napravyenye a tesz przesz",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "tą dzyevycza krolestwo zydowskye ma by",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "cz popravyone przez to lyvd zydowsky bą",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "dzye povyschon przez tą badzye wschystek",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "svyat zbavyon przez tą krolestvo nyebye",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+
+										{ 
+											"line" : "28|line 28",
+											"text" : "skye",
+											"tags" : "1|1",
+											"loc" : "p35|35",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "Bądzye povyschono przesz tą bądzye mocz",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "pyekyelna rozbyta Tego dla slvby y a so",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "bye y przylączy oblyvbyencza Wschakosch",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "ya zawzdy vyey do stoyenstvye bądzyesch cho",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "vacz omyslyayącz yey potrzeby a slvzacz",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "yako svey krolovnye O modlytwye blogo",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "slavyoney dzyevycze marie kyedy yey ka",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "zano Iozepha poyącz oblyvbyenczem",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "Zydovye kyedy począly blogoslavyoną",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "dzyevyczą przymączacz a by Iozepha",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "slvgą bozego oblyvbyla sobye mązem vczyekla",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "szye kv bogv wschechmogaczemv zgorączymij",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "lzamy y począla szye modlycz sczyąskym w",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "zdychanym sercza rzekącz O krolv nyebyesky",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "o vyerny obezrzyczyelyv kazdego czystego ser",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "cza any mego czyala any ducha zawzdy moy",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "dvch czysto chovala natczye ynego nyeząda",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "la any mylovala a tobyem moy kvyat mey",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "czystoty offyerovala tobye samemv moye dzye",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "vycztwo schovala alye dzyszya moy mamy",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "leyschy gospodnye przymączaya mye abych",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "ten slyvb y tą obyetnycza przestąpyla bo",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "mye yvsch oddalayą tvey roskoschney mylosczy",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "yze yvsch przymączaya mij y moczą ynego",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "oblyvbyenycza slyvbycz y przy lączycz",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "szye mązovy obcemv Yedyna nadzyeyo zba",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "vyenya mego czczyy stvorzyczyelyv moy",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "proschą czyebye a by nyeprzepvsczyl",
+											"tags" : "1|1",
+											"loc" : "p36|36",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "Czyala mego y dzyevyczthva porvszycz bo",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "yesz thy moy tovarzysch y przybytkv ser",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "czamego osobny obranyecz Czyebyem mylo",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "vala tobyem szye radovala czyebyem zaw",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "zdy ządala naczczye oblyvbyencza nyeschvka",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "la Thys sam oblyvbyenyecz moy thy yesz",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "sam mąsz moy Thy yesz sam nasvyątschy",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "Thy yesz sam vmovny y nasvytką rądą Th",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "ysz vyelyebnyeyschy nadewschystky yne",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "kraschy Thy yesz moy tayemnyk Thy yesz",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "moy zbavyczyel Thy yesz sam moy myly",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "y mylosnyk Thy yesz moy przyaczyly",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "tovarzysch Tego dla moy namyleyschy",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "dzyszya czyebye proschą mylosczyvye",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "vybaw mye stego vyelykyego smątkv",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "Czczyenye otem yako anyol pokazal sz",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "ye boszoslavyoney y vyelyebney dzye",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "vyczy maryey podpomaga yą y vye",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "szyely yą zojey smątkv y ze przymą",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "czona Iozepha poyącz",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "MArya kyedy byla tako dlvgo namod",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "lytvye zvyelykyemy lzamy boga w",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "schechmogączego wzyvayączy Anyol",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "znyebyoss przyschedl knyey vyeszyelącz",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "yą Marya dzyevyczą svyąta nyevdrącz",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "ayszye tako vyelmy smątkyem Ize bog o",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "bezral y vschlyschal twą modlytvy y",
+											"tags" : "1|1",
+											"loc" : "p37|37",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "poslal myą znyeba kthobye bych czye vcz",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "yeschyl bo czye chczą vtem dzyevyczem sta",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "dlye wschakosch bądzyesch oddana podlvg",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "malzenstva y obyczayą malzenyskyemv te",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "mv svyątemv mązovy Iozephovy yen czye",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "bye schova vtem dostoynym dzyevycztvye",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "yze czystą panną navyeky ostanyesch vsch",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "akosch zakon popelnysch vstavyenye moyse",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "schovo bo masch bycz oddana svyątemv mą",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "zv Iozephovij y bądzyesch yemv przylo",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "czona obyczayem malzenskyem Ten czy ye",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "st maz dzyvnego myloszyerdzya a tvego slv",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "bv vyerny mylosnyk dostoyen czystoty",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "bo od svego dzyevycztva zyl vkazny boze",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "vyernye svego zyvota y vecznoczye a tesz",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "yest barzo czychy smyerny y dostoyny a",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "svey roskoschy czyelestne vyelyky nyeprzy",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "aczyel wslovye prawdzyvy smyerny a",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "barzo poczestnij tego dla tvego malzenyst",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "va yest dostoyen a czyebye nygdy ktorem",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "gnyevem any smątkyem a ny pogoschenym",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "zaklopocze alye czye zawsdy bądzye chovacz",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "yako czystą dzyewka a bądzye tayemnyk",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "tvey czystosczy ten bądzye omyslyal po",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "trzeby tvemv zyvotą a slvzbą czystą bą",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "dzye tobye vkazovacz on tobye bądzye",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "oblyvbyenyecz tovarzysch y brat a thij",
+											"tags" : "1|1",
+											"loc" : "p38|38",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "yemv bądzyesch syostra oblyvbyencza y",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "matka A zmovywschy to anyol nyedal",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "szye daley vydzyeczij A maria zatem vczy",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "eschenym polyeczala szye bogv wschechmo",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "gączemv zvyelykyem dzyekovanym Potem",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "czczyenye o tem yako dzyevycza marya",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "oddana Iozeffovy a yako yemv popovye",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "daly Rokv trzy myąszyącze poyącz mar",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "ya sobye oblyvbyenczą",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "POtem nathychmyast kxyaza zydowska",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "vezvawschy blogoslavyoną dzyevyczą",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "marya y oddaly slyvbnye dostoynemv mą",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "ze Iozeffovy a daly yemv rokv trzy myąszyą",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "cze by yey nyebral aze podvasczye nyedz",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "yel Tako Iozeff natychmyast vroczyl szyą",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "do Betleem zvyelykyem veselym dzyąkvyącz",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "bogv wschechmogączemv stakyego darv y",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "napravyl potrzeby domove kv svey svaczbye",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "Czczyenye o tem yako xyaząta zydowska",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "poslaly marya do nazareth vdom yey",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "oycza a daly yey syedm panyen nasvya",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "decztwo yey czystotij",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "Kyedy dzyevyczą maryą do nazareth",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "byskvpy poslaly do yey oycza oddaly",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "yą szyedmy pannam yey tovarzyschek kto",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "rzysch snyą przebyvaly wbozem a by yą",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "czyeschyly a tesch czynyly svyądecztvo yeij",
+											"tags" : "1|1",
+											"loc" : "p39|39",
+											"inFront": "false"
+										},
+									 
+				{ "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
 			

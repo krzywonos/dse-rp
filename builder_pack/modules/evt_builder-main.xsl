@@ -1080,6 +1080,85 @@
 				{ "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
 			</xsl:result-document>
 		</xsl:if>
+
+		<xsl:if test="$edition_array[3]!=''"><!-- Transliteration -->
+			<xsl:variable name="edition_current" select="lower-case($edition_array[3])" />
+			<xsl:result-document method="text" href="{$filePrefix}/data/output_data/{$edition_current}/{$edition_current}.json" indent="no">
+				{"pages": [
+					<xsl:for-each-group select="//node()[name()=$ed_content]/descendant-or-self::node()[name()=$start_split]/node()" group-starting-with="//tei:pb">
+						<xsl:choose>
+							<xsl:when test="current-group()/(descendant-or-self::lb)">
+								<xsl:for-each-group select="current-group()[not(self::pb)]" group-starting-with="tei:lb">
+									<xsl:if test="current-group()[not((string-length(normalize-space()))= 0)]">
+										<xsl:variable name="current_text">
+											<xsl:apply-templates select="current-group()[not(self::tei:lb) and not(ancestor-or-self::tei:back)]" mode="translit"/>
+										</xsl:variable>
+										<xsl:variable name="current_text1">
+											<xsl:apply-templates select="$current_text" mode="delete_el2"/>
+										</xsl:variable>
+										<xsl:variable name="current_text2">
+											<xsl:apply-templates select="$current_text1//text()[not(ancestor::span)]" mode="deleteSpaces"/>
+										</xsl:variable>
+										{ 
+											"line" : "<xsl:call-template name="line_refs4search"/>",
+											"text" : "<xsl:copy-of select="replace($current_text2, '(\\|/)', '$1$1')"/>",
+											"tags" : "<xsl:call-template name="doc_refs4search"/>",
+											"loc" : "<xsl:call-template name="page_refs4search"/>",
+											"inFront": "<xsl:value-of select="count(current-group()[ancestor-or-self::front]) != 0"/>"
+										},
+									</xsl:if>
+								</xsl:for-each-group>
+							</xsl:when>
+							<xsl:when test="current-group()/(descendant-or-self::p)">
+								<!--<xsl:variable name="var"><xsl:apply-templates select="current-group()[not(self::tei:pb)]" mode="translit"/></xsl:variable>
+								<xsl:copy-of select="$var//text()"></xsl:copy-of>-->
+								<xsl:for-each-group select="current-group()/descendant::p" group-starting-with="//tei:p">
+									<xsl:variable name="current_text">
+										<xsl:apply-templates select="current-group()[not(self::tei:lb) and not(ancestor-or-self::tei:back)]" mode="translit"/>
+									</xsl:variable>
+									<xsl:variable name="current_text1">
+										<xsl:apply-templates select="$current_text"
+											mode="delete_el2"/>
+									</xsl:variable>
+									<xsl:variable name="current_text2">
+										<xsl:apply-templates
+											select="$current_text1//text()[not(ancestor::span)]"
+											mode="deleteSpaces"/>
+									</xsl:variable>
+									{
+										"line" : "<xsl:call-template name="line_refs4search"/>", 
+										"text" : "<xsl:copy-of select="replace($current_text2, '(\\|/)', '$1$1')"/>",
+										"tags" : "<xsl:call-template name="doc_refs4search"/>",
+										"loc" : "<xsl:call-template name="page_refs4search"/>",
+										"inFront": "<xsl:value-of select="count(current-group()[ancestor-or-self::front]) != 0"/>"
+									},
+								</xsl:for-each-group>
+							</xsl:when>
+							<xsl:otherwise>
+								<xsl:variable name="current_text">
+									<xsl:apply-templates select="current-group()[not(self::tei:pb) and not(ancestor-or-self::tei:back)]" mode="interp"/>
+								</xsl:variable>
+								<xsl:variable name="current_text1">
+									<xsl:apply-templates select="$current_text" mode="delete_el2"/>
+								</xsl:variable>
+								<xsl:variable name="current_text2">
+									<xsl:apply-templates
+										select="$current_text1//text()[not(ancestor::span)]"
+										mode="deleteSpaces"/>
+								</xsl:variable> 
+								{ 
+									"line" : "<xsl:call-template name="paragraph_refs4search"/>", 
+									"text" : "<xsl:copy-of select="replace($current_text2, '(\\|/)', '$1$1')"/>", 
+									"tags" : "<xsl:call-template name="doc_refs4search"/>", 
+									"loc" : "<xsl:call-template name="page_refs4search"/>",
+									"inFront": "<xsl:value-of select="count(current-group()[ancestor-or-self::front]) != 0"/>"
+								}, 
+							</xsl:otherwise>
+						</xsl:choose>
+					</xsl:for-each-group> 
+				{ "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
+			</xsl:result-document>
+		</xsl:if>
 		
 		<!-- ADD BY FS - Edizione di traduzione -->
 		<xsl:if test="$translation=true()"><!-- Translation -->

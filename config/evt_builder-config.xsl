@@ -135,12 +135,14 @@
 				For instance: <edition>New_edition</edition> -->
 		<!-- IT: Per aggiungere una nuova edizione, bisognerà inserire una nuova riga qui e -necessariamente- la dichiarazione per i file di output nel file modules/evt_builder-main.xsl, sotto la condizione <xsl:if test="$edition_array[2]!=''">
 				Esempio: <edition>Nuova_edizione</edition> Add by FS -->
+		<edition>Transliteration</edition>
 	</xsl:variable>
 
 	<!-- EN: It is possibile to customize the prefix used in the creation of the classes of the html elements of the edition -->
 	<!-- IT: E' possibile personalizzare il prefisso usato nella creazione delle classi degli elementi html di un'edizione. -->
 	<xsl:variable name="ed_name1">dipl</xsl:variable>
 	<xsl:variable name="ed_name2">interp</xsl:variable>
+	<xsl:variable name="ed_name3">translit</xsl:variable>
 	<!-- Variable -->
 	
 	<!-- EN: Enable/Disable translation -->

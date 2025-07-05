@@ -3,6 +3,7 @@ jquery_lang_js.prototype.lang.en = {
 	"INTERPRETATIVE": "Interpretative",
 	"CRITICAL": "Critical",
 	"TRANSLATION": "Translation",
+	"TRANSLITERATION": "Transliteration",
 
 	"MODE_SINGLE_TEXT": "Single Text Mode",
 	"MODE_IMAGE_TEXT": "Image Text Mode",
@@ -276,10 +277,9 @@ jquery_lang_js.prototype.lang.en = {
 	"KENNING": "Kenning",
 
 	"pl": "Polish",
-	"en": "English",
+	"eng": "English",
 	"it": "Italian",
 	"es": "Spanish",
 	"de": "German",
-	"fr": "French",
-	"tr": "Transliteration"
+	"fr": "French"
 }

@@ -8,6 +8,7 @@
    <front active="1"/>
    <translation active="1">
       <lang/>
+      <lang>eng</lang>
       <lang>it</lang>
       <lang>de</lang>
       <lang>es</lang>
@@ -19,6 +20,7 @@
    <editions>
       <edition data-key="dipl">Diplomatic</edition>
       <edition data-key="interp">Interpretative</edition>
+      <edition data-key="">Transliteration</edition>
    </editions>
    <textpage>
       <text n="1" label="text 1">
